@@ -596,7 +596,7 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                         <div class="col-sm-10 col-md-6 col-lg-12">
                           <h6>Адрес</h6>
                           <hr class="divider-thin">
-                          <article class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-map-marker"></span><span><a href="https://goo.gl/maps/uL1tMi8vgJZkycF68" target="_blank">Ул. Николаевская 23 офис Авторакета<br class="d-none d-xl-block"> Мариуполь, Украина</a></span></article>
+                          <article class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-map-marker"></span><span><a href="https://goo.gl/maps/uL1tMi8vgJZkycF68" target="_blank">Ул. Нильсена 56 офис Авторакета<br class="d-none d-xl-block"> Мариуполь, Украина</a></span></article>
                         </div>
                         <div class="col-sm-10 col-md-6 col-lg-12">
                           <h6>Телефон</h6>

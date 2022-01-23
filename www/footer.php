@@ -71,7 +71,7 @@
                 <ul class="list-xs list-darker">
                     <li class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-map-marker"></span>
                         <div><a href="https://goo.gl/maps/uL1tMi8vgJZkycF68" target="_blank">Мариуполь, Украина<br class="d-none d-xxl-block" />&nbsp;
-                                Ул. Николаевская 23 офис Авторакета</a></div>
+                                Ул. Нильсена 56 офис Авторакета</a></div>
                     </li>
                     <li class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-phone"></span>
                         <ul class="list-comma">
