@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Avtoraketa - Ваш премиум автомобиль из США!</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <script type="text/javascript" src="css/detect.js"></script>
+
+    <meta property="al:ios:app_store_id" content="686449807">
+    <meta property="al:ios:app_name" content="Telegram Messenger">
+    <meta property="al:ios:url" content="tg://join?invite=AAAAAFJzKJAe5h6zoU53zw">
+
+    <meta property="al:android:url" content="tg://join?invite=AAAAAFJzKJAe5h6zoU53zw">
+    <meta property="al:android:app_name" content="Telegram">
+    <meta property="al:android:package" content="org.telegram.messenger">
+
+    <meta name="apple-itunes-app" content="app-id=686449807, app-argument: tg://join?invite=AAAAAFJzKJAe5h6zoU53zw">  
+	
+
+
+  </head>
+
+<style>
+.header{padding: 10px;}
+.avatar{width: 110px;height: 110px;border-radius: 61px;}
+h1{font-size: 30px;margin-top: 10px;font-weight: 900;}
+.lead{max-width: 340px;margin: 0px auto 20px auto;font-size: 19px;font-weight: 500;}
+.jumbotron{padding: 20px 10px 10px 10px;}
+</style>
+
+  <body>
+
+<!--
+
+  Функционал:
+  - 2 кнопки - открыть телеграм и скачать телеграм
+  - Ссылка на скачивание динамичная в зависимости от ОС, чтобы не было лишних кликов
+  - Ссылка на скачивание открывается в новой вкладке
+  - При клике на открыть телеграм срабатывает событие в метрику и в ФБ
+  - При клике на скачать телеграм срабатывает событие в метрику (для анализа)
+  - Можно задавать кастомный текст и аватарку
+
+  Что заменить:
+  - Аватарка
+  - Название
+  - Описание
+  - Deeplink на канал
+
+  - Пиксель ФБ
+  - Событие на синюю кнопку
+  - Метрика
+  - Цели метрики на 2 кнопки
+
+-->
+
+  <div class="header">
+    <img src="img/.png" alt="">
+  </div>
+  <base target="_blank">
+      <section class="jumbotron text-center">
+        <div class="container">
+          <img class="avatar" src="img/logo-telegram.jpg">
+          <h1 class="jumbotron-heading">AVTORAKETA</h1>
+          <p style="display:block" class="lead text-muted">Мы подберём для тебя идельный автомобиль под твой бюджет!<br><br>Обращайся в любом удобном формате:</p>
+          <p>
+            <a href="https://t.me/avtoraketa" class="btn btn-primary my-2" onclick="fbq('track', 'Lead');">
+              Telegram - чат
+            </a>
+            <a href="https://invite.viber.com/?g2=AQBCNcT88hUeE0puhqENFFdVM0awd3pAwW6PfZsTEhmnN1ekSM1lwIniS6DtiI2H"" class="btn btn-primary-2 my-2" onclick="fbq('track', 'Lead');">
+              Viber - чат
+            </a>
+          </p>
+		  <p>
+            <a href="https://www.instagram.com/avtoraketa/" class="btn btn-primary-4 my-2" onclick="fbq('track', 'Lead');">
+              Наш Instagram
+            </a>
+			<a href="tel:+380990542904" class="btn btn-primary-3 my-2" onclick="fbq('track', 'Lead');">
+              Позвонить менеджеру
+            </a>
+          </p>
+        </div>
+      </section>
+
+
+  <script type="text/javascript">
+    var user = detect.parse(navigator.userAgent);
+    dlink = "https://telegram.org/";
+    if (user.os.family == "iOS") {dlink = 'https://itunes.apple.com/ru/app/telegram-messenger/id686449807?mt=8'}             
+    if (user.os.family == "Android") {dlink = 'market://details?id=org.telegram.messenger'}
+    document.getElementById("dlink").setAttribute("href", dlink);
+  </script>
+
+  </body>
+</html>
