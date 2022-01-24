@@ -261,6 +261,12 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                     <p class="text-spacing-sm">На рынке доставки авто из США моя компания АВТО РАКЕТА уже более 3-х лет. За это время мы доставили 1000+ авто и сэкономили нашим клиентам порядка 1 250 000$.</p>
 					<p class="text-spacing-sm">Закажите БЕСПЛАТНУЮ консультацию и сэкономьте свой бюджет разумно!</p><a class="button button-default-outline button-nina js-open-modal" data-modal="1" href="#">Получить предложение</a>
                   </div>
+                  <div class="col-md-9 col-lg-5"><div class="embed-responsive embed-responsive-16by9">
+                <div class="embed-responsive-item">
+                  <img src="./images/car-main.jpg" alt="Машина">
+                </div>
+              </div>
+                  </div>
                 </div>
               </div>
             </section>
