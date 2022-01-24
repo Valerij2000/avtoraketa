@@ -302,9 +302,9 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
             <div class="group-md group-middle button-group">
               <a href="https://www.facebook.com/avtoraketa" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-facebook-outline"><span class="icon mdi mdi-facebook"></span>Facebook</div></a>
               <a href="https://www.instagram.com/avtoraketa/" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-instagram-outline"><span class="icon mdi mdi-instagram"></span>Instagram</div></a>
-              <a href="https://t.me/joinchat/AAAAAFAJxU1yfS1wUwt9SQ" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-twitter-outline"><span class="icon mdi mdi-telegram"></span>Telegram канал</div></a> 
+              <a href="https://t.me/AvtoraketaKZ" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-twitter-outline"><span class="icon mdi mdi-telegram"></span>Telegram канал</div></a> 
               <a href="https://www.youtube.com/channel/UCpD6zdAd1jLHAn2EBr673Cw" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-google-outline"><span class="icon mdi mdi-youtube-play"></span>Канал на YouTube</div></a> 
-              <a href="https://invite.viber.com/?g2=AQBCNcT88hUeE0puhqENFFdVM0awd3pAwW6PfZsTEhmnN1ekSM1lwIniS6DtiI2H" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-viber-outline"><span class="icon mdi mdi-whatsapp"></span>Viber чат</div></a>		  
+              <a href="https://chat.whatsapp.com/Ez0IniDzGsuCwxlXhMJ16H" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-viber-outline"><span class="icon mdi mdi-whatsapp"></span>Whatsapp чат</div></a>		  
             </div>
           </div>
         </div>
@@ -450,76 +450,6 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                 </div>
               </div>
             </section>
-        <!-- Standard Accordion-->
-      <section class="section section-lg bg-gray-lighter text-center">
-        <!-- section wave-->
-        <div class="section-wave">
-          <svg x="0px" y="0px" width="1920px" height="46px" viewbox="0 0 1920 46" preserveAspectRatio="none">
-            <path d="M1920,0.5c-82.8,0-109.1,44-192.3,44c-78.8,0-116.2-44-191.7-44c-77.1,0-115.9,44-192,44c-78.2,0-114.6-44-192-44c-78.4,0-115.3,44-192,44c-76.9-0.1-119-44-192-44c-77,0-115.2,44-192,44c-73.6,0-114-44-190.9-44c-78.5,0-117.2,44-194.1,44c-75.9,0-113-44-191-44V46h1920V0.5z"></path>
-          </svg>
-        </div>
-        <div class="container">
-          <div class="row row-50 justify-content-lg-center">
-            <div class="col-lg-10 col-xl-8">
-              <h3>Ответы на все вопросы</h3>
-			  <div class="divider divider-default"></div>
-              <!-- Bootstrap collapse-->
-              <div class="card-group card-group-custom card-group-corporate" id="accordion1" role="tablist" aria-multiselectable="false">
-                <!--Bootstrap card-->
-                <article class="card card-custom card-corporate">
-                  <div class="card-heading" role="tab">
-                    <div class="card-title"><a id="accordion1-card-head-rspitnhk" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-ulhsmjif" aria-controls="accordion1-card-body-ulhsmjif" aria-expanded="true" role="button">Могут ли мне пригнать авто под ключ без моего выезда?
-                        <div class="card-arrow"></div></a></div>
-                  </div>
-                  <div class="card-collapse collapse show" id="accordion1-card-body-ulhsmjif" aria-labelledby="accordion1-card-head-rspitnhk" data-parent="#accordion1" role="tabpanel">
-                    <div class="card-body">
-                      <p>Да, мы предоставляем своим клиентам возможность покупки авто "под ключ". После подписания доверенности на нашего специалиста, вся процедура будет происходить под Вашим контролем, но удалённо. Автомобиль сразу оформляется на Вас, что максимально выгодно.</p>
-                    </div>
-                  </div>
-                </article>
-                <!--Bootstrap card-->
-                <article class="card card-custom card-corporate">
-                  <div class="card-heading" role="tab">
-                    <div class="card-title"><a class="collapsed" id="accordion1-card-head-syojdtkq" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-qstobexo" aria-controls="accordion1-card-body-qstobexo" aria-expanded="false" role="button">Есть ли машины из Грузии в наличии?	
-                        <div class="card-arrow"></div></a></div>
-                  </div>
-                  <div class="card-collapse collapse" id="accordion1-card-body-qstobexo" aria-labelledby="accordion1-card-head-syojdtkq" data-parent="#accordion1" role="tabpanel">
-                    <div class="card-body">
-                      <p>Мы доставляем авто "под клиента" поэтому не имеем в наличии авто для продажи в Украине.</p>
-                    </div>
-                  </div>
-                </article>
-                <!--Bootstrap card-->
-                <article class="card card-custom card-corporate">
-                  <div class="card-heading" role="tab">
-                    <div class="card-title"><a class="collapsed" id="accordion1-card-head-icchpehf" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-xmehqhuj" aria-controls="accordion1-card-body-xmehqhuj" aria-expanded="false" role="button">На каких сайтах можно найти авто в Грузии?
-                        <div class="card-arrow"></div></a></div>
-                  </div>
-                  <div class="card-collapse collapse" id="accordion1-card-body-xmehqhuj" aria-labelledby="accordion1-card-head-icchpehf" data-parent="#accordion1" role="tabpanel">
-                    <div class="card-body">
-                      <p>В Грузии есть два основных портала:</p>
-                      <p>https://autopapa.ge/ru/usd</p>
-                      <p>https://www.myauto.ge/ru/</p>
-                    </div>
-                  </div>
-                </article>
-                <!--Bootstrap card-->
-                <article class="card card-custom card-corporate">
-                  <div class="card-heading" role="tab">
-                    <div class="card-title"><a class="collapsed" id="accordion1-card-head-kvevtscn" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-ttctvolj" aria-controls="accordion1-card-body-ttctvolj" aria-expanded="false" role="button">Я хочу пригнать авто из Грузии в Украину, с чего нужно начать? 
-                        <div class="card-arrow"></div></a></div>
-                  </div>
-                  <div class="card-collapse collapse" id="accordion1-card-body-ttctvolj" aria-labelledby="accordion1-card-head-kvevtscn" data-parent="#accordion1" role="tabpanel">
-                    <div class="card-body">
-                      <p>Для начала Вам нужно обратится в нашу компанию и оставить пожелания по марке, модели и возрасту желаемого авто.Если Вы желаете поехать с нами, то после подписания договора мы сразу приступаем к поиску билетов на удобные для Вас даты. После прибытия в Грузию мы посещаем крупнейший авторынок - АвтоПапа, где и подберём желаемое авто.</p>
-                    </div>
-                  </div>
-                </article>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
 	    <!-- Contact information-->
             <section id="contact" class="section section-lg section-2-columns">
               <div class="container container-bigger">
@@ -603,17 +533,7 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                           <hr class="divider-thin">
                           <article class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-phone"></span>
                             <ul class="list-comma">
-                              <li><a href="tel:+38(096)023-87-23 ">+38(096)023-87-23 </a></li>
-                            </ul>
-                          </article>
-						  <article class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-phone"></span>
-                            <ul class="list-comma">
-                              <li><a href="tel:+38(063)320-04-06">+38(063)320-04-06</a></li>
-                            </ul>
-                          </article>
-						  <article class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-phone"></span>
-                            <ul class="list-comma">
-                              <li><a href="tel:+38(099)054-29-04 ">+38(099)054-29-04 </a></li>
+                              <li><a href="tel:+7(705)466-29-04">+7(705)466-29-04</a></li>
                             </ul>
                           </article>
                         </div>

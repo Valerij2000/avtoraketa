@@ -319,9 +319,9 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
 				<div class="group-md group-middle button-group">
               <a href="https://www.facebook.com/avtoraketa" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-facebook-outline"><span class="icon mdi mdi-facebook"></span>Facebook</div></a>
               <a href="https://www.instagram.com/avtoraketa/" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-instagram-outline"><span class="icon mdi mdi-instagram"></span>Instagram</div></a>
-              <a href="https://t.me/joinchat/AAAAAFAJxU1yfS1wUwt9SQ" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-twitter-outline"><span class="icon mdi mdi-telegram"></span>Telegram канал</div></a> 
+              <a href="https://t.me/AvtoraketaKZ" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-twitter-outline"><span class="icon mdi mdi-telegram"></span>Telegram канал</div></a> 
               <a href="https://www.youtube.com/channel/UCpD6zdAd1jLHAn2EBr673Cw" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-google-outline"><span class="icon mdi mdi-youtube-play"></span>Канал на YouTube</div></a> 
-              <a href="https://invite.viber.com/?g2=AQBCNcT88hUeE0puhqENFFdVM0awd3pAwW6PfZsTEhmnN1ekSM1lwIniS6DtiI2H" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-viber-outline"><span class="icon mdi mdi-whatsapp"></span>Viber чат</div></a>		  
+              <a href="https://chat.whatsapp.com/Ez0IniDzGsuCwxlXhMJ16H" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-viber-outline"><span class="icon mdi mdi-whatsapp"></span>Whatsapp чат</div></a>		  
             </div>
               </article>
               <div class="section-sm">

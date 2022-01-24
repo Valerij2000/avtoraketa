@@ -209,9 +209,7 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                     <div class="form-wrap form-wrap-validation">
                       <!-- Select 2-->
                       <select class="form-input select-filter" form="get_result" data-placeholder="Какого года авто вы ищете?" data-minimum-results-for-search="Infinity" data-constraints="@Required" name="old_result">
-                        <option value="От 2010 года">От 2010 года</option>
-                        <option value="От 2011 года">От 2011 года</option>
-                        <option value="От 2012 года">От 2012 года</option>
+                        <option value="От 2010 года">От 2020 года</option>
 						<option value="От 2013 года">От 2013 года</option>
 						<option value="От 2014 года">От 2014 года</option>
 						<option value="От 2015 года">От 2015 года</option>
@@ -263,12 +261,6 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                     <p class="text-spacing-sm">На рынке доставки авто из США моя компания АВТО РАКЕТА уже более 3-х лет. За это время мы доставили 1000+ авто и сэкономили нашим клиентам порядка 1 250 000$.</p>
 					<p class="text-spacing-sm">Закажите БЕСПЛАТНУЮ консультацию и сэкономьте свой бюджет разумно!</p><a class="button button-default-outline button-nina js-open-modal" data-modal="1" href="#">Получить предложение</a>
                   </div>
-                  <div class="col-md-9 col-lg-5"><div class="embed-responsive embed-responsive-16by9">
-                <div class="embed-responsive-item">
-                  <iframe src="//www.youtube.com/embed/Uk6TnPUE2zg"></iframe>
-                </div>
-              </div>
-                  </div>
                 </div>
               </div>
             </section>
@@ -302,14 +294,7 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
               <article class="box-minimal-modern">
                 <div class="box-minimal-icon mdi mdi-magnify"></div>
                 <h6 class="box-minimal-title">Логистика и Растаможка</h6>
-                <div class="box-minimal-text">После оплаты выкупленного авто и сопутствующих платежей, ваш автомобиль будет доставлен в порт Украины.После растаможки автомобиль будет готов к выдаче в порту.</div>
-              </article>
-            </div>
-            <div class="col-sm-10 col-md-6 col-xl-3">
-              <article class="box-minimal-modern">
-                <div class="box-minimal-icon mdi mdi-gavel"></div>
-                <h6 class="box-minimal-title">Сертификация и Постановка на учет</h6>
-                <div class="box-minimal-text">Сертификация авто необходима для постановки автомобиля на учёт.Автомобиль регистрируется в Сервисном центре МВД с выдачей тех.паспорта и государственных номерных знаков.</div>
+                <div class="box-minimal-text">После оплаты выкупленного авто и сопутствующих платежей, ваш автомобиль будет доставлен в Казахстан. После растаможки автомобиль будет готов к выдаче в порту.</div>
               </article>
             </div>
           </div>
@@ -324,9 +309,9 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
             <div class="group-md group-middle button-group">
               <a href="https://www.facebook.com/avtoraketa" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-facebook-outline"><span class="icon mdi mdi-facebook"></span>Facebook</div></a>
               <a href="https://www.instagram.com/avtoraketa/" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-instagram-outline"><span class="icon mdi mdi-instagram"></span>Instagram</div></a>
-              <a href="https://t.me/joinchat/AAAAAFAJxU1yfS1wUwt9SQ" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-twitter-outline"><span class="icon mdi mdi-telegram"></span>Telegram канал</div></a>
+              <a href="https://t.me/AvtoraketaKZ" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-twitter-outline"><span class="icon mdi mdi-telegram"></span>Telegram канал</div></a>
               <a href="https://www.youtube.com/channel/UCpD6zdAd1jLHAn2EBr673Cw" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-google-outline"><span class="icon mdi mdi-youtube-play"></span>Канал на YouTube</div></a>
-              <a href="https://invite.viber.com/?g2=AQBCNcT88hUeE0puhqENFFdVM0awd3pAwW6PfZsTEhmnN1ekSM1lwIniS6DtiI2H" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-viber-outline"><span class="icon mdi mdi-whatsapp"></span>Viber чат</div></a>
+              <a href="https://chat.whatsapp.com/Ez0IniDzGsuCwxlXhMJ16H" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-viber-outline"><span class="icon mdi mdi-whatsapp"></span>Whatsapp чат</div></a>
             </div>
           </div>
         </div>
@@ -488,88 +473,11 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                       <p>Расчет 5-10 вариантов авто из США , а так же гарантированную cкидку в 100$</p><a class="button button-secondary button-nina js-open-modal" data-modal="1" href="#">Заказать</a>
                     </div>
                   </div>
-                  <div class="col-md-6 col-xl-5 col-xxl-3"><img class="cta-avatar" src="images/cta-avatar-01-491x571.png" alt="" width="491" height="571"/>
+                  <div class="col-md-6 col-xl-5 col-xxl-3"><img class="cta-avatar" src="images/cta-avatar-01-491x571.jpg" alt="" width="491" height="571"/>
                   </div>
                 </div>
               </div>
             </section>
-        <!-- Standard Accordion-->
-      <section class="section section-lg bg-gray-lighter text-center">
-        <!-- section wave-->
-        <div class="section-wave">
-          <svg x="0px" y="0px" width="1920px" height="46px" viewbox="0 0 1920 46" preserveAspectRatio="none">
-            <path d="M1920,0.5c-82.8,0-109.1,44-192.3,44c-78.8,0-116.2-44-191.7-44c-77.1,0-115.9,44-192,44c-78.2,0-114.6-44-192-44c-78.4,0-115.3,44-192,44c-76.9-0.1-119-44-192-44c-77,0-115.2,44-192,44c-73.6,0-114-44-190.9-44c-78.5,0-117.2,44-194.1,44c-75.9,0-113-44-191-44V46h1920V0.5z"></path>
-          </svg>
-        </div>
-        <div class="container">
-          <div class="row row-50 justify-content-lg-center">
-            <div class="col-lg-10 col-xl-8">
-              <h3>Ответы на все вопросы</h3>
-			  <div class="divider divider-default"></div>
-              <!-- Bootstrap collapse-->
-              <div class="card-group card-group-custom card-group-corporate" id="accordion1" role="tablist" aria-multiselectable="false">
-                <!--Bootstrap card-->
-                <article class="card card-custom card-corporate">
-                  <div class="card-heading" role="tab">
-                    <div class="card-title"><a id="accordion1-card-head-rspitnhk" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-ulhsmjif" aria-controls="accordion1-card-body-ulhsmjif" aria-expanded="true" role="button">Какой срок доставки Авто?
-                        <div class="card-arrow"></div></a></div>
-                  </div>
-                  <div class="card-collapse collapse show" id="accordion1-card-body-ulhsmjif" aria-labelledby="accordion1-card-head-rspitnhk" data-parent="#accordion1" role="tabpanel">
-                    <div class="card-body">
-                      <p>Средний срок доставки авто составляет около 3 месяцев. В зависимости от запроса на подбор авто и выбранного логистического пути (обычная доставка в Одессу или ускоренная через Германию / Литву) этот срок может корректироваться как в большую так и в меньшую сторону.</p>
-                    </div>
-                  </div>
-                </article>
-                <!--Bootstrap card-->
-                <article class="card card-custom card-corporate">
-                  <div class="card-heading" role="tab">
-                    <div class="card-title"><a class="collapsed" id="accordion1-card-head-syojdtkq" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-qstobexo" aria-controls="accordion1-card-body-qstobexo" aria-expanded="false" role="button">Есть ли машины в наличии?
-                        <div class="card-arrow"></div></a></div>
-                  </div>
-                  <div class="card-collapse collapse" id="accordion1-card-body-qstobexo" aria-labelledby="accordion1-card-head-syojdtkq" data-parent="#accordion1" role="tabpanel">
-                    <div class="card-body">
-                      <p>Мы доставляем авто "под клиента" поэтому не имеем в наличии авто для продажи в Украине.</p>
-                    </div>
-                  </div>
-                </article>
-                <!--Bootstrap card-->
-                <article class="card card-custom card-corporate">
-                  <div class="card-heading" role="tab">
-                    <div class="card-title"><a class="collapsed" id="accordion1-card-head-icchpehf" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-xmehqhuj" aria-controls="accordion1-card-body-xmehqhuj" aria-expanded="false" role="button">Что входит в стоимость ваших услуг?
-                        <div class="card-arrow"></div></a></div>
-                  </div>
-                  <div class="card-collapse collapse" id="accordion1-card-body-xmehqhuj" aria-labelledby="accordion1-card-head-icchpehf" data-parent="#accordion1" role="tabpanel">
-                    <div class="card-body">
-                      <p>В стоимость наших услуг входит:</p>
-                      <p>- Подбор автомобиля.</p>
-                      <p>- Проверка истории автомобиля по базам США.</p>
-                      <p>- Определение оптимальной ставки за лот.</p>
-                      <p>- Участие в торгах за авто и выкуп авто на аукционе.</p>
-                      <p>- Организация оплаты авто.</p>
-                      <p>- Сопровождение доставки авто из США в Украину.</p>
-                      <p>- Помощь в таможенном оформлении авто (таможенный брокер и таможенные платежи оплачиваются отдельно).</p>
-                      <p>- Просчёт стоимости ремонта авто.</p>
-                      <p>- Содействие в прохождении сертификации авто в Украине.</p>
-                    </div>
-                  </div>
-                </article>
-                <!--Bootstrap card-->
-                <article class="card card-custom card-corporate">
-                  <div class="card-heading" role="tab">
-                    <div class="card-title"><a class="collapsed" id="accordion1-card-head-kvevtscn" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-ttctvolj" aria-controls="accordion1-card-body-ttctvolj" aria-expanded="false" role="button">А куда ехать за машиной после прибытия в Украину?
-                        <div class="card-arrow"></div></a></div>
-                  </div>
-                  <div class="card-collapse collapse" id="accordion1-card-body-ttctvolj" aria-labelledby="accordion1-card-head-kvevtscn" data-parent="#accordion1" role="tabpanel">
-                    <div class="card-body">
-                      <p>Автомобиль будет доставлен эвакуатором в любую точку Украины по вашему желанию.Вы также можете забрать его самостоятельно (если авто на ходу) или же своим эвакуатором из порта Одессы.</p>
-                    </div>
-                  </div>
-                </article>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
 	    <!-- Contact information-->
             <section id="contact" class="section section-lg section-2-columns">
               <div class="container container-bigger">
@@ -653,17 +561,7 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                           <hr class="divider-thin">
                           <article class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-phone"></span>
                             <ul class="list-comma">
-                              <li><a href="tel:+38(096)023-87-23">+38(096)023-87-23</a></li>
-                            </ul>
-                          </article>
-						  <article class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-phone"></span>
-                            <ul class="list-comma">
-                              <li><a href="tel:+38(099)054-29-04">+38(099)054-29-04</a></li>
-                            </ul>
-                          </article>
-						  <article class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-phone"></span>
-                            <ul class="list-comma">
-                              <li><a href="tel:+38(066)009-79-87">+38(066)009-79-87</a></li>
+                              <li><a href="tel:+7(705)466-29-04">+7(705)466-29-04</a></li>
                             </ul>
                           </article>
                         </div>

@@ -8,12 +8,7 @@
                     <ul class="list-inline">
                         <li class="box-inline"><span class="icon novi-icon icon-md-smaller icon-gray-light mdi mdi-phone"></span>
                             <ul class="list-comma">
-                                <li><a href="tel:+38(096)023-87-23">+38(096)023-87-23</a></li>
-                            </ul>
-                        </li>
-                        <li class="box-inline"><span class="icon novi-icon icon-md-smaller icon-gray-light mdi mdi-phone"></span>
-                            <ul class="list-comma">
-                                <li><a href="tel:+38(066)009-79-87">+38(099)054-29-04</a></li>
+                                <li><a href="tel:+7(705)466-29-04">+7(705)466-29-04</a></li>
                             </ul>
                         </li>
                         <li class="box-inline"><span class="icon novi-icon icon-md-smaller icon-gray-light mdi mdi-map-marker"></span><a href="https://goo.gl/maps/uL1tMi8vgJZkycF68" target="_blank">Архитектора Ул. Нильсена 56</a></li>
@@ -23,8 +18,8 @@
                         <li><a class="icon icon-sm-bigger icon-gray-1 mdi mdi-facebook" href="https://www.facebook.com/avtoraketa" target="_blank"></a></li>
                         <li><a class="icon icon-sm-bigger icon-gray-1 mdi mdi-youtube-play" href="https://www.youtube.com/channel/UCpD6zdAd1jLHAn2EBr673Cw" target="_blank"></a></li>
                         <li><a class="icon icon-sm-bigger icon-gray-1 mdi mdi-instagram" href="https://www.instagram.com/avtoraketa/" target="_blank"></a></li>
-                        <li><a class="icon icon-sm-bigger icon-gray-1 mdi mdi-telegram" href="https://t.me/joinchat/AAAAAFAJxU1yfS1wUwt9SQ" target="_blank"></a></li>
-                        <li><a class="icon icon-sm-bigger icon-gray-1 mdi mdi-whatsapp" href="https://invite.viber.com/?g2=AQBCNcT88hUeE0puhqENFFdVM0awd3pAwW6PfZsTEhmnN1ekSM1lwIniS6DtiI2H" target="_blank"></a></li>
+                        <li><a class="icon icon-sm-bigger icon-gray-1 mdi mdi-telegram" href="https://t.me/AvtoraketaKZ" target="_blank"></a></li>
+                        <li><a class="icon icon-sm-bigger icon-gray-1 mdi mdi-whatsapp" href="https://chat.whatsapp.com/Ez0IniDzGsuCwxlXhMJ16H" target="_blank"></a></li>
                     </ul>
                 </div>
                 <div class="rd-navbar-top-panel-inner"><button type="button" class="button button-sm button-secondary button-nina js-open-modal" data-modal="1">Обратный звонок</button></div>
