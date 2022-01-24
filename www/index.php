@@ -340,61 +340,61 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                 <div class="col-1 isotope-item isotope-sizer"></div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 1"><a class="gallery-item" href="images/usa-1.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/usa-1.jpg" alt="авто из сша мариуполь Volkswagen Passat" width="570" height="380"/>
+                      <figure><img src="images/usa-1.jpg" alt="авто из сша Volkswagen Passat" width="570" height="380"/>
                       </figure>
                       <div class="caption">
                         <p class="caption-title">Volkswagen Passat 2015 - 3 500$</p>
-                        <p class="caption-text">Стоимость авто в Украине - 10 500$</p>
+                        <p class="caption-text">Стоимость авто в Казахстане - 10 500$</p>
                       </div>
                     </div></a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 1"><a class="gallery-item" href="images/usa-2.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/usa-2.jpg" alt="авто из сша мариуполь Ford Focus" width="570" height="380"/>
+                      <figure><img src="images/usa-2.jpg" alt="авто из сша Ford Focus" width="570" height="380"/>
                       </figure>
                       <div class="caption">
                         <p class="caption-title">Ford Focus 2017 - 2 700$</p>
-                        <p class="caption-text">Стоимость авто в Украине - 9 500$</p>
+                        <p class="caption-text">Стоимость авто в Казахстане - 9 500$</p>
                       </div>
                     </div></a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 1"><a class="gallery-item" href="images/usa-3.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/usa-3.jpg" alt="авто из сша мариуполь Volkswagen Tiguan" width="570" height="380"/>
+                      <figure><img src="images/usa-3.jpg" alt="авто из сша Volkswagen Tiguan" width="570" height="380"/>
                       </figure>
                       <div class="caption">
                         <p class="caption-title">Volkswagen Tiguan 2015 - 3 500$</p>
-                        <p class="caption-text">Стоимость авто в Украине - 11 500$</p>
+                        <p class="caption-text">Стоимость авто в Казахстане - 11 500$</p>
                       </div>
                     </div></a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 2"><a class="gallery-item" href="images/usa-4.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/usa-4.jpg" alt="авто из сша мариуполь Nissan Rogue" width="570" height="380"/>
+                      <figure><img src="images/usa-4.jpg" alt="авто из сша Nissan Rogue" width="570" height="380"/>
                       </figure>
                       <div class="caption">
                         <p class="caption-title">Nissan Rogue 2017 - 6 000$</p>
-                        <p class="caption-text">Стоимость авто в Украине - 14 000$</p>
+                        <p class="caption-text">Стоимость авто в Казахстане - 14 000$</p>
                       </div>
                     </div></a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 2"><a class="gallery-item" href="images/usa-5.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/usa-5.jpg" alt="авто из сша мариуполь Hyundai Sonata" width="570" height="380"/>
+                      <figure><img src="images/usa-5.jpg" alt="авто из сша Hyundai Sonata" width="570" height="380"/>
                       </figure>
                       <div class="caption">
                         <p class="caption-title">Hyundai Sonata 2013 - 3 000$</p>
-                        <p class="caption-text">Стоимость авто в Украине - 10 000$</p>
+                        <p class="caption-text">Стоимость авто в Казахстане - 10 000$</p>
                       </div>
                     </div></a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 2"><a class="gallery-item" href="images/usa-6.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/usa-6.jpg" alt="авто из сша мариуполь Ford Fiesta" width="570" height="380"/>
+                      <figure><img src="images/usa-6.jpg" alt="авто из сша Ford Fiesta" width="570" height="380"/>
                       </figure>
                       <div class="caption">
                         <p class="caption-title">Ford Fiesta 2016 - 2 000$</p>
-                        <p class="caption-text">Стоимость авто в Украине - 8 000$</p>
+                        <p class="caption-text">Стоимость авто в Казахстане - 8 000$</p>
                       </div>
                     </div></a>
                 </div>
@@ -410,7 +410,7 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
 				<div class="divider divider-default"></div>
                 <div class="row justify-content-sm-center row-xl row-30">
                   <!-- Pricing Box-->
-                  <div class="col-md-6 col-xl-4">
+              <!--    <div class="col-md-6 col-xl-4">
                     <div class="pricing-box pricing-box-novi">
                       <div class="pricing-box-header">
                         <h4>Эконом</h4>
@@ -427,8 +427,9 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                       </div>
                     </div>
                   </div>
+                   -->
                   <!-- Pricing Box-->
-                  <div class="col-md-6 col-xl-4">
+              <!--    <div class="col-md-6 col-xl-4">
                     <div class="pricing-box pricing-box-novi">
                       <div class="pricing-box-header">
                         <h4>Стандарт</h4>
@@ -446,6 +447,7 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                       </div>
                     </div>
                   </div>
+                   -->
                   <!-- Pricing Box-->
                   <div class="col-md-6 col-xl-4">
                     <div class="pricing-box pricing-box-novi">
