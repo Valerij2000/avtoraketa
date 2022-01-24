@@ -35,6 +35,7 @@
 		<form method="post" action="" id="formAuctionLot">
 			<input placeholder="Вставьте ссылку на лот аукциона..." style="margin-bottom: 7px;" class="form-input form-control-has-validation form-control-last-child" id="form-callback-name" type="text" name="name">
 			<input placeholder="Телефон..." style="margin-bottom: 7px;" class="form-input form-control-has-validation form-control-last-child" id="form-callback-phone" type="text" name="phone">
+			<input placeholder="Город..." style="margin-bottom: 7px;" class="form-input form-control-has-validation form-control-last-child" id="form-callback-city" type="text" name="city">
 			<div id="messegeResult">
 				<input class="btn button button-block button-secondary button-nina" id="button" type="button" value="Отправить" onclick="AjaxFormRequest_callback('messegeResult', 'formAuctionLot')" />
 			</div>
