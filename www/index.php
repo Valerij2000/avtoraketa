@@ -418,8 +418,7 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                       <div class="pricing-box-body">
                         <ul class="pricing-box-list">
                           <li>Покупка авто на аукционе</li>
-                          <li>Доставка в Украину (порт)</li>
-                          <li class="pricing-box-list-disable">Доставка к дому</li>
+                          <li class="pricing-box-list-disable">Доставка в Ваш город</li>
                           <li class="pricing-box-list-disable">Ремонт</li>
                         </ul>
                         <div class="pricing-box-price">
@@ -437,7 +436,7 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                       <div class="pricing-box-body">
                         <ul class="pricing-box-list">
                           <li>Покупка авто на аукционе</li>
-                          <li>Доставка к дому</li>
+                          <li>Доставка в Ваш город</li>
                           <li>Оформление документов</li>
                           <li class="pricing-box-list-disable">Ремонт</li>
                         </ul>
@@ -456,7 +455,7 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                       <div class="pricing-box-body">
                         <ul class="pricing-box-list">
                          <li>Покупка авто на аукционе</li>
-                          <li>Доставка к дому</li>
+                          <li>Доставка в Ваш город</li>
                           <li>Оформление документов</li>
 						  <li>Ремонт</li>
                         </ul>
@@ -536,6 +535,12 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                         </div>
                         <div class="col-md-12">
                           <div class="form-wrap form-wrap-validation">
+                            <label class="form-label-outside" for="form-3-name">Ваш город</label>
+                            <input class="form-input" id="form-3-name" type="text" name="city_contact" data-constraints="@Required"/>
+                          </div>
+                        </div>
+                        <div class="col-md-12">
+                          <div class="form-wrap form-wrap-validation">
                             <label class="form-label-outside" for="form-3-phone">Телефон</label>
                             <input class="form-input" id="form-3-phone" type="text" name="phone_contact" data-constraints="@Required"/>
                           </div>
@@ -560,7 +565,7 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                         <div class="col-sm-10 col-md-6 col-lg-12">
                           <h6>Адрес</h6>
                           <hr class="divider-thin">
-                          <article class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-map-marker"></span><span><a href="https://goo.gl/maps/uL1tMi8vgJZkycF68" target="_blank">Ул. Николаевская 23 офис Авторакета<br class="d-none d-xl-block"> Мариуполь, Украина</a></span></article>
+                          <article class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-map-marker"></span><span><a href="https://goo.gl/maps/ApLjM16BdQbNx1oaA" target="_blank">Актау 25 мкр, Здание 13</a></span></article>
                         </div>
                         <div class="col-sm-10 col-md-6 col-lg-12">
                           <h6>Телефон</h6>

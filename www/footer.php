@@ -3,7 +3,7 @@
         <div class="row row-50 justify-content-sm-center justify-content-xl-between">
             <div class="col-md-6 col-xl-3">
                 <h6>О компании</h6>
-                <p>Авторакета - это компания, которая осуществляет услуги по покупке и доставке автомобилей из США в Украину. Мы предоставляем гарантию на все свои услуги, платежи прозрачны, а стоимость Вас приятно удивит.</p>
+                <p>Авторакета - это компания, которая осуществляет услуги по покупке и доставке автомобилей из США в Казахстан. Мы предоставляем гарантию на все свои услуги, платежи прозрачны, а стоимость Вас приятно удивит.</p>
             </div>
             <div class="col-md-6 col-xl-3">
                 <h6>Пригнанные авто</h6>
@@ -70,8 +70,7 @@
                 <h6>Контакты</h6>
                 <ul class="list-xs list-darker">
                     <li class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-map-marker"></span>
-                        <div><a href="https://goo.gl/maps/uL1tMi8vgJZkycF68" target="_blank">Мариуполь, Украина<br class="d-none d-xxl-block" />&nbsp;
-                                Ул. Николаевская 23 офис Авторакета</a></div>
+                        <div><a href="https://goo.gl/maps/ApLjM16BdQbNx1oaA" target="_blank">Актау 25 мкр, Здание 13</a></div>
                     </li>
                     <li class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-phone"></span>
                         <ul class="list-comma">

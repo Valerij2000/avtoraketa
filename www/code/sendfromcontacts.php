@@ -6,6 +6,7 @@ define('TELEGRAM_CHATID', '-1001364145655');
 $datas = '';
 $datas .= 'Сообщение с сайта' . "\n";
 $datas .= 'Имя: ' . $_POST['name_contact'] . "\n";
+$datas .= 'Город: ' . $_POST['city_contact'] . "\n";
 $datas .= 'Телефон: ' . $_POST['phone_contact'] . "\n";
 $datas .= 'Сообщение: ' . $_POST['message_contact'] . "\n";
 

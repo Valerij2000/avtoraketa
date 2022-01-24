@@ -11,7 +11,7 @@
                                 <li><a href="tel:+7(705)466-29-04">+7(705)466-29-04</a></li>
                             </ul>
                         </li>
-                        <li class="box-inline"><span class="icon novi-icon icon-md-smaller icon-gray-light mdi mdi-map-marker"></span><a href="https://goo.gl/maps/uL1tMi8vgJZkycF68" target="_blank">Архитектора Ул. Нильсена 56</a></li>
+                        <li class="box-inline"><span class="icon novi-icon icon-md-smaller icon-gray-light mdi mdi-map-marker"></span><a href="https://goo.gl/maps/ApLjM16BdQbNx1oaA" target="_blank">Актау 25 мкр, Здание 13</a></li>
                         <li class="box-inline"><span class="icon novi-icon icon-md-smaller icon-gray-light mdi mdi-email"></span><a href="mailto:avtoraketa.com.ua@gmail.com">avtoraketa.com.ua@gmail.com</a></li>
                     </ul>
                     <ul class="list-inline">
