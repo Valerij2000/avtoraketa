@@ -200,11 +200,10 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                     <div class="form-wrap form-wrap-validation">
                       <!-- Select 2-->
                       <select class="form-input select-filter" form="get_result" data-placeholder="В каком бюджете?" data-minimum-results-for-search="Infinity" data-constraints="@Required" name="price_result">
-                        <option value="От 7000$ до 10000$">От 7000$ до 10000$</option>
-                        <option value="От 10000 до 15000">От 10000 до 15000$</option>
-						<option value="От 15000 до 20000$">От 15000 до 20000$</option>
-						<option value="От 20000 до 25000$">От 20000 до 25000$</option>
-						<option value="Свыше 25000$">Свыше 25000$</option>
+                      <option value="До 19000$">До 19000$</option>
+                        <option value="От 19000$ до 25000$">От 19000 до 25000$</option>
+                        <option value="От 25000 до 37000">От 25000 до 37000$</option>
+                        <option value="Свыше 37000$">Свыше 37000$</option>
                       </select>
                     </div>
                     <div class="form-wrap form-wrap-validation">
