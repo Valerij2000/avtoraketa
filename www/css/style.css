@@ -4705,7 +4705,7 @@ textarea.form-input.form-input-lg {
 	width: auto;
 	height: auto;
 	max-width: none;
-	min-width: 101.5%
+	width: 100%;
 }
 .gallery-item .caption {
 	position: absolute;
