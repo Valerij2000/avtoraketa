@@ -3,9 +3,9 @@
 
 
 jQuery(function(jQuery){
-	jQuery('[name="phone"]').mask("+38(099)999-99-99"); 
-	jQuery('[name="phone_result"]').mask("+38(099)999-99-99");
-	jQuery('[name="phone_contact"]').mask("+38(099)999-99-99"); 
+	jQuery('[name="phone"]').mask("+7(999)999-99-99"); 
+	jQuery('[name="phone_result"]').mask("+7(999)999-99-99");
+	jQuery('[name="phone_contact"]').mask("+7(999)999-99-99"); 
 });
 
 			
