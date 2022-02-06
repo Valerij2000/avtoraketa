@@ -16555,8 +16555,8 @@ ul ul, ul ol, ol ul, ol ol {
 	height: 50px;
 	font-size: 20px;
 	border-radius: 9px;
-	right: 15px;
-	bottom: 15px;
+	left: 15px;
+	bottom: 0;
 	overflow: hidden;
 	text-align: center;
 	text-decoration: none;
@@ -16587,8 +16587,8 @@ html.mobile .ui-to-top, html.tablet .ui-to-top {
 }
 @media(min-width:480px) {
 	.ui-to-top {
-		right: 40px;
-		bottom: 40px
+		left: 40px;
+		bottom: 0;
 	}
 }
 .tabs-custom {
