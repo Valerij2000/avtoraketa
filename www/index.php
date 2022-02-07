@@ -245,7 +245,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
 		                  <a class="button button-default-outline button-nina js-open-modal" data-modal="3" href="#">
                         Вставить ссылку на лот
                       </a>
-                      <a class="button button-block button-secondary button-nina" href="javascript:jivo_api.open()">Заказать карфакс</a>
+                      <a class="button button-block button-secondary button-nina" href="javascript:jivo_api.open()">Заказать карфакс за 3$</a>
                     </div>
                   </div>
                 </div>
