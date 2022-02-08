@@ -57,6 +57,11 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
 <noscript><div><img src="https://mc.yandex.ru/watch/57268372" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!— /Yandex.Metrika counter —>
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
+  
+  <!-- Google Analytics  -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZZ3FTSHK3T"></script>
+  <script src="js/google-analytics.js"></script>
+  
   </head>
   <body>
 	  <script>
