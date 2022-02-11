@@ -268,7 +268,8 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
                   </div>
                   <div class="col-md-9 col-lg-5"><div class="embed-responsive embed-responsive-16by9">
                 <div class="embed-responsive-item">
-                  <img src="./images/car-main.jpg" alt="Машина">
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/kDWeXKlm7lE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <!-- <img src="./images/car-main.jpg" alt="Машина"> --> 
                 </div>
               </div>
                   </div>
