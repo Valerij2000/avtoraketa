@@ -62,6 +62,9 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
     <!-- Google Analytics  -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZZ3FTSHK3T"></script>
     <script src="js/google-analytics.js"></script>
+
+    <!-- Event snippet for Отправка формы для потенциальных клиентов conversion page -->
+    <script src="js/conversion.js"></script>
     
   </head>
   <body>
