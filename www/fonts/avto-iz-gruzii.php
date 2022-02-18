@@ -64,7 +64,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
 
   <!-- Event snippet for Отправка формы для потенциальных клиентов conversion page -->
   <script src="js/conversion.js"></script>
-  
+
   </head>
   <body>
 	  <script>
@@ -128,7 +128,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
     <div class="page">
       <!-- Page Header-->
       <?php require('header.php'); ?>
-  <!-- slider-->
+	  <!-- slider-->
       <section class="section">
         <div class="swiper-form-wrap">
           <!-- Swiper-->
@@ -188,7 +188,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
               <div class="col-lg-4 col-xxl-3 s50355">
                 <div class="form-request">
                   <h4>Укажите свои предпочтения</h4>
-                  <p>Чтобы подобрать 5-10 вариантов авто из Грузии под ваш бюджет и желаемую комплектацию</p>
+                  <p>Чтобы подобрать 5-10 вариантов авто из США под ваш бюджет и желаемую комплектацию</p>
                   <!-- RD Mailform-->
                  
                     <div class="form-wrap form-wrap-validation">
@@ -206,7 +206,7 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
                     <div class="form-wrap form-wrap-validation">
                       <!-- Select 2-->
                       <select class="form-input select-filter" form="get_result" data-placeholder="В каком бюджете?" data-minimum-results-for-search="Infinity" data-constraints="@Required" name="price_result">
-                      <option value="До 19000$">До 19000$</option>
+                        <option value="До 19000$">До 19000$</option>
                         <option value="От 19000$ до 25000$">От 19000 до 25000$</option>
                         <option value="От 25000 до 37000">От 25000 до 37000$</option>
                         <option value="Свыше 37000$">Свыше 37000$</option>
@@ -236,87 +236,8 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
           </div>
         </div>
       </section>
-	  <!--about-->
-	  <section class="section section-lg section-2-columns">
-              <div class="container container-bigger">
-                <div class="row row-ten row-50 justify-content-md-center align-items-lg-center justify-content-xl-between">
-                  <div class="col-md-9 col-lg-5 col-xxl-4">
-                    <h3>Получите прямо сейчас БЕСПЛАТНУЮ КОНСУЛЬТАЦИЮ</h3>
-                    <div class="divider divider-default"></div>
-                    <p class="heading-5">Приветствую Вас, я Сергей Пашковский! </p>
-                    <p class="text-spacing-sm">На рынке доставки авто из Грузии моя компания АВТО РАКЕТА уже более 3-х лет. За это время мы доставили 100+ авто и сэкономили нашим клиентам порядка 250 000$.</p>
-					<p class="text-spacing-sm">Закажите БЕСПЛАТНУЮ консультацию и сэкономьте свой бюджет разумно!</p><a class="button button-default-outline button-nina js-open-modal" data-modal="1" href="#">Получить предложение</a>
-                  </div>
-                  <div class="col-md-9 col-lg-5"><div class="embed-responsive embed-responsive-16by9">
-                <div class="embed-responsive-item">
-                  <iframe src="//www.youtube.com/embed/6UZFMZOyJpM"></iframe>
-                </div>
-              </div>
-                  </div>
-                </div>
-              </div>
-            </section>
-	   <!--our advantages-->
-      <section id="etap" class="section section-lg bg-gray-lighter text-center">
-	  <!-- section wave-->
-        <div class="section-wave">
-          <svg x="0px" y="0px" width="1920px" height="46px" viewbox="0 0 1920 46" preserveAspectRatio="none">
-            <path d="M1920,0.5c-82.8,0-109.1,44-192.3,44c-78.8,0-116.2-44-191.7-44c-77.1,0-115.9,44-192,44c-78.2,0-114.6-44-192-44c-78.4,0-115.3,44-192,44c-76.9-0.1-119-44-192-44c-77,0-115.2,44-192,44c-73.6,0-114-44-190.9-44c-78.5,0-117.2,44-194.1,44c-75.9,0-113-44-191-44V46h1920V0.5z"></path>
-          </svg>
-        </div>
-        <div class="container-wide">
-          <h3>4 простых шага к Вашему автомобилю:</h3>
-          <div class="divider divider-default"></div>
-          <div class="row row-50 justify-content-sm-center">
-            <div class="col-sm-10 col-md-6 col-xl-3">
-              <article class="box-minimal-modern">
-                <div class="box-minimal-icon mdi mdi-account"></div>
-                <h6 class="box-minimal-title">Бесплатная консультация и подписание договора</h6>
-                <div class="box-minimal-text">Менеджер ответит на все ваши вопросы о покупке авто из Грузии, расскажет об особенностях процесса и ценообразовании авто из Грузии.Подписания официального договора в нашем офисе или удаленно.</div>
-              </article>
-            </div>
-            <div class="col-sm-10 col-md-6 col-xl-3">
-              <article class="box-minimal-modern">
-                <div class="box-minimal-icon mdi mdi-pen"></div>
-                <h6 class="box-minimal-title">Подбор и выкуп автомобиля на авторынке</h6>
-                <div class="box-minimal-text">Экспертный отдел подберет для вас 5-10 вариантов автомобилей, проверит их историю и состояние.После утверждения вами варианта автомобиля наши специалисты покупают авто.</div>
-              </article>
-            </div>
-            <div class="col-sm-10 col-md-6 col-xl-3"> 
-              <article class="box-minimal-modern">
-                <div class="box-minimal-icon mdi mdi-magnify"></div>
-                <h6 class="box-minimal-title">Логистика и Растаможка</h6>
-                <div class="box-minimal-text">После оплаты выкупленного авто и сопутствующих платежей, ваш автомобиль будет доставлен в Казахстан  .После растаможки автомобиль будет готов к выдаче в порту.Доставка автомобиля из Грузии в Казахстан  занимает всего 2 недели.</div>
-              </article>
-            </div>
-            <div class="col-sm-10 col-md-6 col-xl-3">
-              <article class="box-minimal-modern">
-                <div class="box-minimal-icon mdi mdi-gavel"></div>
-                <h6 class="box-minimal-title">Сертификация и Постановка на учет</h6>
-                <div class="box-minimal-text">Сертификация авто необходима для постановки автомобиля на учёт.Автомобиль регистрируется в Сервисном центре МВД с выдачей тех.паспорта и государственных номерных знаков.</div>
-              </article>
-            </div>
-          </div>
-        </div>
-      </section>
-	   <!-- Social buttons-->
-      <section class="section section-lg bg-default text-center">
-        <div class="container container-fullwidth">
-          <h3>Присоединяйтесь к нам в социальных сетях!</h3>
-		  <div class="divider divider-default"></div>
-          <div class="custom-wrap-2 wrap-buttons-sm">
-            <div class="group-md group-middle button-group">
-              <a href="https://www.facebook.com/avtoraketa" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-facebook-outline"><span class="icon mdi mdi-facebook"></span>Facebook</div></a>
-              <a href="https://www.instagram.com/avtoraketa/" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-instagram-outline"><span class="icon mdi mdi-instagram"></span>Instagram</div></a>
-              <a href="https://t.me/AvtoraketaKZ" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-twitter-outline"><span class="icon mdi mdi-telegram"></span>Telegram канал</div></a> 
-              <a href="https://www.youtube.com/channel/UCpD6zdAd1jLHAn2EBr673Cw" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-google-outline"><span class="icon mdi mdi-youtube-play"></span>Канал на YouTube</div></a> 
-              <a href="https://chat.whatsapp.com/Ez0IniDzGsuCwxlXhMJ16H" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-viber-outline"><span class="icon mdi mdi-whatsapp"></span>Whatsapp чат</div></a>		  
-            </div>
-          </div>
-        </div>
-      </section>
-	    	<!-- Grid gallery-->
-      <section id="catalog" class="section section-lg text-center bg-gray-lighter">
+      <!-- Single post-->
+      <section class="section section-lg bg-default">
         <!-- section wave-->
         <div class="section-wave">
           <svg x="0px" y="0px" width="1920px" height="46px" viewbox="0 0 1920 46" preserveAspectRatio="none">
@@ -324,124 +245,102 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
           </svg>
         </div>
         <div class="container-wide">
-          <h3>Видео обзоры на автомобили<br>доставленные нашим клиентам</h3>
-		  <div class="divider divider-default"></div>
-          <div class="isotope-wrap row row-0 row-md-30">
-            <div class="col-xl-12">
-              <!-- Isotope Content-->
-              <div class="row row-30 isotope" data-isotope-layout="masonry" data-column-class=".col-1" data-isotope-group="gallery" data-lightgallery="group">
-                <div class="col-1 isotope-item isotope-sizer"></div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 1"><a class="gallery-item" href="https://youtu.be/9QEBOakYslA" data-lightgallery="item">
-                    <div class="gallery-item-image">
-                      <figure><img src="images/catalog-1.jpg" alt="авто из Грузии Казахстан toyota" width="570" height="380"/>
-                      </figure>
-                      <div class="caption">
-                        <p class="caption-title">Toyota Rav4 2017 в Грузии - 17 000$</p>
-                        <p class="caption-text">Стоимость данного авто в Казахстане  на номерах - 23 000$</p>
+          <div class="row justify-content-sm-center">
+            <div class="col-lg-10 col-xl-8 col-xxl-6 sections-collapsable">
+              <article class="post-blog-article">
+                <ul class="post-blog-article-meta group-xl">
+                  <li>
+                    <div class="box-inline"><span class="icon novi-icon icon-md icon-primary mdi mdi-calendar-clock"></span>
+                      <time datetime="2020">14 февраля, 2020 года</time>
+                    </div>
+                  </li>
+                </ul>
+                <h3 align="center">Авто из Грузи и в Казахстан , плюсы и минусы.</h3><img src="images/blog-post-2.jpg" alt="Авто из Грузи и в Казахстан " width="870" height="580"/>
+                <p>Cтоит ли покупать б/у авто из Грузии для ввоза в Казахстан ? Выгодна ли такая покупка её новоиспечённому владельцу? Как правильно выбрать автомобиль и не попасть на "кота в мешке", "утопленника" и т.д? </p>
+                <p>На эти и иные вопросы мы ответим в нашем блоге, компании по доставке автомобилей - Авторакета.</p>
+				<p>Самым главным преимуществом покупки авто из Грузии для дальнейшей его доставки и растаможки в Казахстан  - цена. <br>Разница между европейскими аналогами и ввезёнными из США в Грузию - очень прилична. Вы можете сами убедится в этом, если зайдёте на местный портал, к примеру Германии - mobile.de и найти такую же по комплектации машину на грузинском портале - autopapa.ge</p>
+                <article class="quote-primary">
+                  <svg class="quote-primary-mark" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="35px" height="25px" viewbox="0 0 35 25">
+                    <path d="M27.461,10.206h7.5v15h-15v-15L25,0.127h7.5L27.461,10.206z M7.539,10.206h7.5v15h-15v-15L4.961,0.127h7.5                            L7.539,10.206z"></path>
+                  </svg>
+                  <div class="quote-primary-text">
+                    <p>Уверяю Вас, контраст цен приятно удивит. Ценообразование на автомобили из Грузии ниже, чем в ЕС на 30-40%, не говоря уже об Украинском рынке.</p>
+                  </div>
+                  <p class="quote-primary-meta"><span></span><span class="cite">Cергей Пашковский</span></p>
+                </article>
+				<br>
+				<h3 align="center">В чём же такая разница в ценах?</h3>
+				<p>Всё очень просто! На Грузинском авторынке преобладают авто из США. В свою очередь в Америке очень развита структура страхования автомобилей, что позволяет владельцам авто при повреждении своего "железного коня" не бежать на СТО для ремонта, а просто сдавать данную машину страховым аукционам и получать достаточное вознаграждение для покупки нового авто. </p>
+				<p>Автоаукционы США покупают поврежденные авто и со своей, не значительной комиссией, продают их как лоты. </p>
+				<p>В Грузии действительно приемлемые налоги на оформление автомобилей, что делает покупку б/у авто из США максимально выгодной.И пока рынок Украины насыщался "евробляхами" , Грузины восстанавливали битые авто и катались уже на свежих (от 2010 года) машинах из Америки.<br>Повреждения автомобилей из аукционов могут быть совершенно разные, от банального града или кражи авто с разбитым стеклом до "утопленников и склеенных". Что бы не попасть на совсем убитую машину, стоит обратиться к профессионалам, которые завезли из Грузии в Казахстан  уже более 100+ автомобилей.<p>
+
+				<br>
+				<h3 align="center">Доставка авто из Грузии в Мариуполь</h3>
+				<p>Наша компания предоставляет услуги по доставке автомобилей из Грузии в Казахстан  в 2-х вариантах:<br>- доставка "под ключ"<br>- совместная поездка</p>
+				<p>Первый вариант подходит для клиентов, которые не обладают достаточным временем (3-5 дней) для совершения поездки в Грузию. Вы оформляете доверенность на право покупки от Вашего лица автомобиля, оформляем договор и всё. Далее следует лишь вайбер/ватсап/телеграмм отчёты по машинам, мы с Вами сообща выбираем и покупаем автомобиль. <br>Совместная поездка принесёт же Вам не только желаемую покупку, но и массу впечатлений. Поверьте, Батуми и Грузия в целом - замечательная страна со своим индивидуальным шармом. После подписания договора мы подберём билеты на удобные для Вас даты и отправимся в Грузию на поиски автомобиля по заданным параметрам. </p>
+				<br>
+				<h3 align="center">Преимущества покупки автомобиля из Грузии в Казахстан </h3>
+				<p>Кроме вышеизложенного, к плюсам покупки авто мы можем отнести:<br>- сроки доставки (до 2-х недель)<br>- мультибрендовость (на рынке Грузии представленные всевозможные марки и модели самых известных автомобильных корпораций)<br>- ценообразование и покупка в близкой для нас валюте, долларах<br>- возможность проверки лично или нашим экспертом (это невозможно сделать с автомобилями из США)</p>
+				<p>Мы с радостью подберём для Вас достойный и качественный автомобиль из Грузии. Благодаря многолетнему опыту и профессионализму - компания Avtoraketa осуществит Вашу автомобильную мечту с максимальной выгодой!</p>
+				
+				<div class="group-md group-middle button-group">
+              <a href="https://www.facebook.com/avtoraketa" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-facebook-outline"><span class="icon mdi mdi-facebook"></span>Facebook</div></a>
+              <a href="https://www.instagram.com/avtoraketa/" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-instagram-outline"><span class="icon mdi mdi-instagram"></span>Instagram</div></a>
+              <a href="https://t.me/AvtoraketaKZ" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-twitter-outline"><span class="icon mdi mdi-telegram"></span>Telegram канал</div></a> 
+              <a href="https://www.youtube.com/channel/UCpD6zdAd1jLHAn2EBr673Cw" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-google-outline"><span class="icon mdi mdi-youtube-play"></span>Канал на YouTube</div></a> 
+              <a href="https://chat.whatsapp.com/Ez0IniDzGsuCwxlXhMJ16H" target="_blank"><div class="button button-icon-alternate button-icon-left button-sm button-viber-outline"><span class="icon mdi mdi-whatsapp"></span>Whatsapp чат</div></a>		  
+            </div>
+              </article>
+              <div class="section-sm">
+                <p class="h3-alternate">Другие публикации</p>
+                <div class="row row-30 row-xl-50">
+                  <div class="col-sm-10 col-md-6 post-light-wrap">
+                    <article class="post-light">
+                      <div class="unit flex-row">
+                        <div class="unit-left"><a href="avto-iz-usa-mariupol.php"><img src="images/post-light-1-120x80.jpg" alt="Авто из США в Мариуполь" width="120" height="80"/></a></div>
+                        <div class="unit-body">
+                          <p class="post-light-title"><a href="avto-iz-usa-mariupol.php">Авто из США в Мариуполь</a></p>
+                          <time class="post-light-time" datetime="2020">7 февраля, 2020 года</time>
+                        </div>
                       </div>
-                    </div></a>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 1"><a class="gallery-item" href="https://youtu.be/6vFBe0Hx0mA" data-lightgallery="item">
-                    <div class="gallery-item-image">
-                      <figure><img src="images/catalog-2.jpg" alt="авто из Грузии Казахстан киа" width="570" height="380"/>
-                      </figure>
-                      <div class="caption">
-                        <p class="caption-title">Kia Optima 2016 в Грузии  - 12 000$</p>
-                        <p class="caption-text">Стоимость данного авто в Казахстане  на номерах - 17 500$</p>
+                    </article>
+                    <article class="post-light">
+                      <div class="unit flex-row">
+                        <div class="unit-left"><a href="avto-iz-korea.php"><img src="images/post-light-3-120x80.jpg" alt="Авто из Кореи" width="120" height="80"/></a></div>
+                        <div class="unit-body">
+                          <p class="post-light-title"><a href="avto-iz-korea.php">Авто из Кореи. ГБО в подарок!</a></p>
+                          <time class="post-light-time" datetime="2020">23 февраля, 2020 года</time>
+                        </div>
                       </div>
-                    </div></a>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 1"><a class="gallery-item" href="https://youtu.be/szvyXvqIZ0Q" data-lightgallery="item">
-                    <div class="gallery-item-image">
-                      <figure><img src="images/catalog-3.jpg" alt="авто из Грузии Казахстан мерседес" width="570" height="380"/>
-                      </figure>
-                      <div class="caption">
-                        <p class="caption-title">Mercedes GLA 2015 в Грузии  - 16 500$</p>
-                        <p class="caption-text">Стоимость данного авто в Казахстане  на номерах - 22 000$</p>
+                    </article>
+                  </div>
+                  <div class="col-sm-10 col-md-6 post-light-wrap">
+                    <article class="post-light">
+                      <div class="unit flex-row">
+                        <div class="unit-left"><a href="samie-nadezhnie-avto-iz-usa.php"><img src="images/post-light-4-120x80.jpg" alt="Самые надёжные авто из США" width="120" height="80"/></a></div>
+                        <div class="unit-body">
+                          <p class="post-light-title"><a href="samie-nadezhnie-avto-iz-usa.php">Самые надёжные авто из США. ТОП - 10.</a></p>
+                          <time class="post-light-time" datetime="2020">4 марта, 2020 года</time>
+                        </div>
                       </div>
-                    </div></a>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 2"><a class="gallery-item" href="https://youtu.be/bdB5ZiDWNAE" data-lightgallery="item">
-                    <div class="gallery-item-image">
-                      <figure><img src="images/catalog-4.jpg" alt="авто из Грузии Казахстан тойота" width="570" height="380"/>
-                      </figure>
-                      <div class="caption">
-                        <p class="caption-title">Toyota Camry 2017 в Грузии  - 11 000$</p>
-                        <p class="caption-text">Стоимость данного авто в Казахстане  на номерах - 16 000$</p>
+                    </article>
+                    <article class="post-light">
+                      <div class="unit flex-row">
+                        <div class="unit-left"><a href="top-10-avto-iz-usa.php"><img src="images/post-light-5-120x80.jpg" alt="ТОП 10 авто из США, Грузии и Кореи для доставки в Казахстан " width="120" height="80"/></a></div>
+                        <div class="unit-body">
+                          <p class="post-light-title"><a href="top-10-avto-iz-usa.php">ТОП 10 авто из США, Грузии и Кореи для доставки в Казахстан </a></p>
+                          <time class="post-light-time" datetime="2020">16 марта, 2020 года</time>
+                        </div>
                       </div>
-                    </div></a>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 2"><a class="gallery-item" href="https://youtu.be/F5anaHmTcQQ" data-lightgallery="item">
-                    <div class="gallery-item-image">
-                      <figure><img src="images/catalog-5.jpg" alt="авто из Грузии Казахстан митсубиси" width="570" height="380"/>
-                      </figure>
-                      <div class="caption">
-                        <p class="caption-title">Mitsubishi ASX 2017 в Грузии  - 9 000$</p>
-                        <p class="caption-text">Стоимость данного авто в Казахстане  на номерах - 13 300$</p>
-                      </div>
-                    </div></a>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="type 2"><a class="gallery-item" href="https://youtu.be/tKjLm7A2XHM" data-lightgallery="item">
-                    <div class="gallery-item-image">
-                      <figure><img src="images/catalog-6.jpg" alt="авто из Грузии Казахстан джетта" width="570" height="380"/>
-                      </figure>
-                      <div class="caption">
-                        <p class="caption-title">Volkswagen Jetta 2019 в Грузии  - 15 000$</p>
-                        <p class="caption-text">Стоимость данного авто в Казахстане  на номерах - 20 000$</p>
-                      </div>
-                    </div></a>
+                    </article>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section> 
-	  <!-- Standard Pricing-->
-            <section id="price" class="section section-lg text-center">
-              <div class="container">
-                <h3>Стоимость наших услуг</h3>
-				<div class="divider divider-default"></div>
-                <div class="row justify-content-sm-center row-xl row-30">
-                  <!-- Pricing Box-->
-                  <div class="col-md-6 col-xl-6">
-                    <div class="pricing-box pricing-box-novi">
-                      <div class="pricing-box-header">
-                        <h4>Авто тур</h4>
-                      </div>
-                      <div class="pricing-box-body">
-                        <ul class="pricing-box-list">
-                          <li>Совместная покупка авто на авторынке</li>
-                          <li>Доставка в Казахстан </li>
-                          <li class="pricing-box-list-disable">Доставка к дому</li>
-                        </ul>
-                        <div class="pricing-box-price">
-                          <div class="heading-4">400$</div>
-                        </div><a class="js-open-modal button button-sm button-secondary button-nina" data-modal="1" href="#">Заказать</a>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- Pricing Box-->
-                  <div class="col-md-6 col-xl-6">
-                    <div class="pricing-box pricing-box-novi">
-                      <div class="pricing-box-header">
-                        <h4>Под "ключ"</h4>
-                      </div>
-                      <div class="pricing-box-body">
-                        <ul class="pricing-box-list">
-                         <li>Мы сами покупаем авто на авторынке</li>
-                          <li>Доставка к дому</li>
-                          <li>Оформление документов</li>
-                        </ul>
-                        <div class="pricing-box-price">
-                          <div class="heading-4">500$</div>
-                        </div><a class="js-open-modal button button-sm button-secondary button-nina" data-modal="1" href="#">Заказать</a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </section>		
-	  <!-- CAllS TO ACTION-->
+      </section>
+ <!-- CAllS TO ACTION-->
 	  <section class="section text-center text-md-left">
               <div class="container-wide">
                 <div class="row justify-content-sm-center align-items-end">
@@ -456,117 +355,8 @@ src="https://www.facebook.com/tr?id=873801476872818&ev=PageView&noscript=1"
                 </div>
               </div>
             </section>
-	    <!-- Contact information-->
-            <section id="contact" class="section section-lg section-2-columns">
-              <div class="container container-bigger">
-                <div class="row row-ten row-50 justify-content-md-center justify-content-xl-between">
-                  <div class="col-md-9 col-lg-6">
-                    <h3>Наши контакты</h3>
-                    <hr class="divider divider-left divider-default">
-                    <p class="big">Если у Вас остались вопросы или есть желание узнать больше о экономии Вашего бюджета при покупке авто из Грузии, оставвьте заявку и мы свяжемся с Вами в ближайшее время.</p>
-                    <!-- RD Mailform-->
-					  	  
-					  <script type="text/javascript">
-	function AjaxFormRequest_from_contact(result_id, formMain) {
-		var send = true;
-		$('form#form_from_contact input[type="text"]').each(function() {
-			if(!$(this).val() || $(this).val() == '') {
-				if($("#errmessage").length > 0) {} else {
-					$('#form_from_contact').append('<span id="errmessage">пожалуйста, заполните все поля</span>');
-				}
-				send = false;
-			}
-		});
-		if(!send) return false;
-		jQuery.ajax({
-			url: "code/sendfromcontacts.php",
-			type: "POST",
-			dataType: "html",
-			data: jQuery("#" + formMain).serialize(),
-			success: function(response) {
-				document.getElementById(result_id).innerHTML = response;
-				jQuery('#form_from_contact').after('<h5>Отлично!</h5><p>Очень скоро Вам перезвонят.</p>');
-				jQuery('#form_from_contact').css('opacity', '0.4');
-				jQuery('#form_from_contact button').css('display', 'none');
-				jQuery('#form_from_contact input').attr('disabled', true);
-			},
-			error: function(response) {
-				document.getElementById(result_id).innerHTML = "<p>Возникла ошибка при отправке формы. Попробуйте еще раз</p>";
-			}
-		});
-	}
-						  
-						  
-	</script>
-                    <form class="rd-mailform" data-form-output="form-output-global" id="form_from_contact" data-form-type="contact" method="post" action="">
-                      <div class="row row-20">
-                        <div class="col-md-12">
-                          <div class="form-wrap form-wrap-validation">
-                            <label class="form-label-outside" for="form-3-name">Ваше имя</label>
-                            <input class="form-input" id="form-3-name" type="text" name="name_contact" data-constraints="@Required"/>
-                          </div>
-                        </div>
-                        <div class="col-md-12">
-                          <div class="form-wrap form-wrap-validation">
-                            <label class="form-label-outside" for="form-3-phone">Телефон</label>
-                            <input class="form-input" id="form-3-phone" type="text" name="phone_contact" data-constraints="@Required"/>
-                          </div>
-                        </div>
-                        <div class="col-sm-12">
-                          <div class="form-wrap form-wrap-validation">
-                            <label class="form-label-outside" for="form-3-message">Сообщение</label>
-                            <textarea class="form-input" id="form-3-message" name="message_contact" data-constraints="@Required"></textarea>
-                          </div>
-                        </div>
-                        <div class="col-sm-12 offset-custom-4">
-                          <div class="form-button">
-                            <button class="button button-secondary button-nina" onclick="AjaxFormRequest_from_contact('messegeResult', 'form_from_contact')" type="submit">Отправить</button>
-                          </div>
-                        </div>
-                      </div>
-                    </form>  
-                  </div>
-                  <div class="col-md-9 col-lg-4 col-xl-3">
-                    <div class="column-aside">
-                      <div class="row">
-                        <div class="col-sm-10 col-md-6 col-lg-12">
-                          <h6>Адрес</h6>
-                          <hr class="divider-thin">
-                          <article class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-map-marker"></span><span><a href="https://goo.gl/maps/ApLjM16BdQbNx1oaA" target="_blank">Актау 25 мкр, Здание 13</a></span></article>
-                        </div>
-                        <div class="col-sm-10 col-md-6 col-lg-12">
-                          <h6>Телефон</h6>
-                          <hr class="divider-thin">
-                          <article class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-phone"></span>
-                            <ul class="list-comma">
-                              <li><a href="tel:+7(707)990-01-47">+7(707)990-01-47</a></li>
-                            </ul>
-                          </article>
-                        </div>
-                        <div class="col-sm-10 col-md-6 col-lg-12">
-                          <h6>E-mail</h6>
-                          <hr class="divider-thin">
-                          <article class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-email-open"></span><span><a href="mailto:avtoraketa.com.ua@gmail.com">avtoraketa.com.ua@gmail.com</a></span></article>
-                        </div>
-                        <div class="col-sm-10 col-md-6 col-lg-12">
-                          <h6>Работаем</h6>
-                          <hr class="divider-thin">
-                          <article class="box-inline"><span class="icon novi-icon icon-md-smaller icon-primary mdi mdi-calendar-clock"></span>
-                            <ul class="list-0">
-                              <li>Пн-Пт: 9:00 – 20:00</li>
-                              <li>Сб-Вс: 10:00 – 18:00</li>
-                            </ul>
-                          </article>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </section>
-     <!-- Page Footer-->
-      <!-- Footer Alternative-->
-      <?php require('footer.php'); ?>
+       <!-- Footer Alternative-->
+       <?php require('footer.php'); ?>
     </div>
     <!-- Global Mailform Output-->
    
